@@ -1,0 +1,401 @@
+
+Mini_dataset\ILSVRC2017_test_00000001.JPEG
+__lion, king of beasts, Panthera leo__cougar, puma, catamount, mountain lion, painter, panther, Felis concolor__brown bear, bruin, Ursus arctos__bison__jaguar, panther, Panthera onca, Felis onca
+Mini_dataset\ILSVRC2017_test_00000004.JPEG
+__goldfish, Carassius auratus__tench, Tinca tinca__anemone fish__rock beauty, Holocanthus tricolor__coral reef
+Mini_dataset\ILSVRC2017_test_00000007.JPEG
+__American chameleon, anole, Anolis carolinensis__alligator lizard__green lizard, Lacerta viridis__whiptail, whiptail lizard__agama
+Mini_dataset\ILSVRC2017_test_00000010.JPEG
+__ruffed grouse, partridge, Bonasa umbellus__prairie chicken, prairie grouse, prairie fowl__partridge__quail__coucal
+Mini_dataset\ILSVRC2017_test_00000012.JPEG
+__albatross, mollymawk__white stork, Ciconia ciconia__American egret, great white heron, Egretta albus__crane__goose
+Mini_dataset\ILSVRC2017_test_00000014.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__red fox, Vulpes vulpes__polecat, fitch, foulmart, foumart, Mustela putorius__weasel__Blenheim spaniel
+Mini_dataset\ILSVRC2017_test_00000017.JPEG
+__damselfly__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__lacewing, lacewing fly__tiger beetle__fly
+Mini_dataset\ILSVRC2017_test_00000018.JPEG
+__horse cart, horse-cart__cowboy hat, ten-gallon hat__coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch__cowboy boot__barracouta, snoek
+Mini_dataset\ILSVRC2017_test_00000021.JPEG
+__daisy__bee__fly__ant, emmet, pismire__snail
+Mini_dataset\ILSVRC2017_test_00000034.JPEG
+__sorrel__horse cart, horse-cart__cowboy hat, ten-gallon hat__barrel, cask__plow, plough
+Mini_dataset\ILSVRC2017_test_00000035.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__red fox, Vulpes vulpes__polecat, fitch, foulmart, foumart, Mustela putorius__grey fox, gray fox, Urocyon cinereoargenteus__kit fox, Vulpes macrotis
+Mini_dataset\ILSVRC2017_test_00000037.JPEG
+__damselfly__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__lacewing, lacewing fly__fly__cicada, cicala
+Mini_dataset\ILSVRC2017_test_00000038.JPEG
+__porcupine, hedgehog__echidna, spiny anteater, anteater__skunk, polecat, wood pussy__tarantula__badger
+Mini_dataset\ILSVRC2017_test_00000039.JPEG
+__otter__beaver__mink__sea lion__weasel
+Mini_dataset\ILSVRC2017_test_00000046.JPEG
+__bee eater__partridge__toucan__coucal__bulbul
+Mini_dataset\ILSVRC2017_test_00000047.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__American black bear, black bear, Ursus americanus, Euarctos americanus__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__soccer ball__sloth bear, Melursus ursinus, Ursus ursinus
+Mini_dataset\ILSVRC2017_test_00000048.JPEG
+__barrel, cask__sorrel__muzzle__cowboy hat, ten-gallon hat__horse cart, horse-cart
+Mini_dataset\ILSVRC2017_test_00000059.JPEG
+__drake__goose__red-breasted merganser, Mergus serrator__American coot, marsh hen, mud hen, water hen, Fulica americana__lakeside, lakeshore
+Mini_dataset\ILSVRC2017_test_00000060.JPEG
+__snail__acorn__harvestman, daddy longlegs, Phalangium opilio__conch__coil, spiral, volute, whorl, helix
+Mini_dataset\ILSVRC2017_test_00000062.JPEG
+__gorilla, Gorilla gorilla__chimpanzee, chimp, Pan troglodytes__howler monkey, howler__baboon__siamang, Hylobates syndactylus, Symphalangus syndactylus
+Mini_dataset\ILSVRC2017_test_00000068.JPEG
+__horse cart, horse-cart__sorrel__plow, plough__cowboy boot__barrel, cask
+Mini_dataset\ILSVRC2017_test_00000076.JPEG
+__hippopotamus, hippo, river horse, Hippopotamus amphibius__common iguana, iguana, Iguana iguana__vulture__pelican__crane
+Mini_dataset\ILSVRC2017_test_00000083.JPEG
+__tiger, Panthera tigris__tiger cat__jaguar, panther, Panthera onca, Felis onca__lynx, catamount__cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+Mini_dataset\ILSVRC2017_test_00000086.JPEG
+__chimpanzee, chimp, Pan troglodytes__gorilla, Gorilla gorilla__siamang, Hylobates syndactylus, Symphalangus syndactylus__macaque__guenon, guenon monkey
+Mini_dataset\ILSVRC2017_test_00000091.JPEG
+__drake__red-breasted merganser, Mergus serrator__American coot, marsh hen, mud hen, water hen, Fulica americana__goose__European gallinule, Porphyrio porphyrio
+Mini_dataset\ILSVRC2017_test_00000096.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus__indri, indris, Indri indri, Indri brevicaudatus__colobus, colobus monkey__teddy, teddy bear
+Mini_dataset\ILSVRC2017_test_00000098.JPEG
+__goldfish, Carassius auratus__anemone fish__axolotl, mud puppy, Ambystoma mexicanum__sea slug, nudibranch__coral reef
+Mini_dataset\ILSVRC2017_test_00000102.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__fly__cicada, cicala__tiger beetle
+Mini_dataset\ILSVRC2017_test_00000104.JPEG
+__vulture__kite__great grey owl, great gray owl, Strix nebulosa__bald eagle, American eagle, Haliaeetus leucocephalus__hornbill
+Mini_dataset\ILSVRC2017_test_00000106.JPEG
+__otter__mink__weasel__beaver__sea lion
+Mini_dataset\ILSVRC2017_test_00000114.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__American black bear, black bear, Ursus americanus, Euarctos americanus__ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__soccer ball
+Mini_dataset\ILSVRC2017_test_00000130.JPEG
+__hog, pig, grunter, squealer, Sus scrofa__Chihuahua__polecat, fitch, foulmart, foumart, Mustela putorius__kelpie__black-footed ferret, ferret, Mustela nigripes
+Mini_dataset\ILSVRC2017_test_00000547.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__sloth bear, Melursus ursinus, Ursus ursinus__American black bear, black bear, Ursus americanus, Euarctos americanus__ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus__brown bear, bruin, Ursus arctos
+Mini_dataset\ILSVRC2017_test_00000554.JPEG
+__mongoose__badger__wombat__brown bear, bruin, Ursus arctos__wild boar, boar, Sus scrofa
+Mini_dataset\ILSVRC2017_test_00000557.JPEG
+__porcupine, hedgehog__echidna, spiny anteater, anteater__mink__beaver__fox squirrel, eastern fox squirrel, Sciurus niger
+Mini_dataset\ILSVRC2017_test_00000558.JPEG
+__chainlink fence__fire screen, fireguard__yurt__theater curtain, theatre curtain__stage
+Mini_dataset\ILSVRC2017_test_00000559.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__Madagascar cat, ring-tailed lemur, Lemur catta__indri, indris, Indri indri, Indri brevicaudatus__wallaby, brush kangaroo__titi, titi monkey
+Mini_dataset\ILSVRC2017_test_00000562.JPEG
+__horse cart, horse-cart__muzzle__military uniform__plow, plough__cowboy hat, ten-gallon hat
+Mini_dataset\ILSVRC2017_test_00000566.JPEG
+__badger__skunk, polecat, wood pussy__polecat, fitch, foulmart, foumart, Mustela putorius__weasel__black-footed ferret, ferret, Mustela nigripes
+Mini_dataset\ILSVRC2017_test_00000568.JPEG
+__sea lion__otter__cowboy boot__hippopotamus, hippo, river horse, Hippopotamus amphibius__seashore, coast, seacoast, sea-coast
+Mini_dataset\ILSVRC2017_test_00000569.JPEG
+__wild boar, boar, Sus scrofa__hog, pig, grunter, squealer, Sus scrofa__hare__wombat__wallaby, brush kangaroo
+Mini_dataset\ILSVRC2017_test_00000571.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__lacewing, lacewing fly__fly__walking stick, walkingstick, stick insect
+Mini_dataset\ILSVRC2017_test_00000577.JPEG
+__rapeseed__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__bee__fly__ant, emmet, pismire
+Mini_dataset\ILSVRC2017_test_00000578.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__howler monkey, howler__orangutan, orang, orangutang, Pongo pygmaeus__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__American black bear, black bear, Ursus americanus, Euarctos americanus
+Mini_dataset\ILSVRC2017_test_00000583.JPEG
+__black swan, Cygnus atratus__goose__drake__red-breasted merganser, Mergus serrator__European gallinule, Porphyrio porphyrio
+Mini_dataset\ILSVRC2017_test_00000589.JPEG
+__sorrel__plow, plough__horse cart, horse-cart__barrel, cask__worm fence, snake fence, snake-rail fence, Virginia fence
+Mini_dataset\ILSVRC2017_test_00000590.JPEG
+__drake__red-breasted merganser, Mergus serrator__goose__American coot, marsh hen, mud hen, water hen, Fulica americana__red-backed sandpiper, dunlin, Erolia alpina
+Mini_dataset\ILSVRC2017_test_00000593.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__lacewing, lacewing fly__fly__leafhopper
+Mini_dataset\ILSVRC2017_test_00000597.JPEG
+__damselfly__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__fly__lacewing, lacewing fly__leafhopper
+Mini_dataset\ILSVRC2017_test_00000599.JPEG
+__worm fence, snake fence, snake-rail fence, Virginia fence__Welsh springer spaniel__English springer, English springer spaniel__basset, basset hound__Brittany spaniel
+Mini_dataset\ILSVRC2017_test_00000600.JPEG
+__red-breasted merganser, Mergus serrator__drake__American coot, marsh hen, mud hen, water hen, Fulica americana__limpkin, Aramus pictus__black swan, Cygnus atratus
+Mini_dataset\ILSVRC2017_test_00000603.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__wombat__indri, indris, Indri indri, Indri brevicaudatus__Madagascar cat, ring-tailed lemur, Lemur catta__three-toed sloth, ai, Bradypus tridactylus
+Mini_dataset\ILSVRC2017_test_00000604.JPEG
+__goldfish, Carassius auratus__tench, Tinca tinca__coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch__barracouta, snoek__gar, garfish, garpike, billfish, Lepisosteus osseus
+Mini_dataset\ILSVRC2017_test_00000606.JPEG
+__orangutan, orang, orangutang, Pongo pygmaeus__guillotine__macaque__spider monkey, Ateles geoffroyi__birdhouse
+Mini_dataset\ILSVRC2017_test_00000608.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__American black bear, black bear, Ursus americanus, Euarctos americanus__teddy, teddy bear__indri, indris, Indri indri, Indri brevicaudatus
+Mini_dataset\ILSVRC2017_test_00000610.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__indri, indris, Indri indri, Indri brevicaudatus__Madagascar cat, ring-tailed lemur, Lemur catta__wombat__wallaby, brush kangaroo
+Mini_dataset\ILSVRC2017_test_00000611.JPEG
+__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__leaf beetle, chrysomelid__hip, rose hip, rosehip__ant, emmet, pismire__leafhopper
+Mini_dataset\ILSVRC2017_test_00000617.JPEG
+__otter__sea lion__beaver__weasel__grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus
+Mini_dataset\ILSVRC2017_test_00000624.JPEG
+__bee__admiral__ringlet, ringlet butterfly__chickadee__long-horned beetle, longicorn, longicorn beetle
+Mini_dataset\ILSVRC2017_test_00000625.JPEG
+__plow, plough__sorrel__horse cart, horse-cart__ox__cowboy hat, ten-gallon hat
+Mini_dataset\ILSVRC2017_test_00000626.JPEG
+__zebra__gazelle__badger__ostrich, Struthio camelus__tiger, Panthera tigris
+Mini_dataset\ILSVRC2017_test_00000631.JPEG
+__damselfly__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__lacewing, lacewing fly__crane__walking stick, walkingstick, stick insect
+Mini_dataset\ILSVRC2017_test_00000632.JPEG
+__Arabian camel, dromedary, Camelus dromedarius__jigsaw puzzle__harp__triceratops__Airedale, Airedale terrier
+Mini_dataset\ILSVRC2017_test_00000635.JPEG
+__safety pin__pinwheel__jigsaw puzzle__park bench__umbrella
+Mini_dataset\ILSVRC2017_test_00000636.JPEG
+__goose__albatross, mollymawk__drake__European gallinule, Porphyrio porphyrio__lakeside, lakeshore
+Mini_dataset\ILSVRC2017_test_00000639.JPEG
+__English setter__kuvasz__Great Pyrenees__golden retriever__cocker spaniel, English cocker spaniel, cocker
+Mini_dataset\ILSVRC2017_test_00000640.JPEG
+__porcupine, hedgehog__howler monkey, howler__titi, titi monkey__beaver__marmoset
+Mini_dataset\ILSVRC2017_test_00000641.JPEG
+__hippopotamus, hippo, river horse, Hippopotamus amphibius__Boston bull, Boston terrier__Cardigan, Cardigan Welsh corgi__English springer, English springer spaniel__Border collie
+Mini_dataset\ILSVRC2017_test_00000645.JPEG
+__red fox, Vulpes vulpes__Arctic fox, white fox, Alopex lagopus__tiger cat__lynx, catamount__dhole, Cuon alpinus
+Mini_dataset\ILSVRC2017_test_00000649.JPEG
+__sorrel__Arabian camel, dromedary, Camelus dromedarius__gazelle__Ibizan hound, Ibizan Podenco__Saluki, gazelle hound
+Mini_dataset\ILSVRC2017_test_00000650.JPEG
+__goldfish, Carassius auratus__macaw__lorikeet__axolotl, mud puppy, Ambystoma mexicanum__anemone fish
+Mini_dataset\ILSVRC2017_test_00000652.JPEG
+__jay__chickadee__junco, snowbird__quail__water ouzel, dipper
+Mini_dataset\ILSVRC2017_test_00000655.JPEG
+__damselfly__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__lacewing, lacewing fly__fly__leafhopper
+Mini_dataset\ILSVRC2017_test_00000656.JPEG
+__guenon, guenon monkey__patas, hussar monkey, Erythrocebus patas__colobus, colobus monkey__squirrel monkey, Saimiri sciureus__titi, titi monkey
+Mini_dataset\ILSVRC2017_test_00000667.JPEG
+__hen__ruffed grouse, partridge, Bonasa umbellus__partridge__great grey owl, great gray owl, Strix nebulosa__kite
+Mini_dataset\ILSVRC2017_test_00000669.JPEG
+__water buffalo, water ox, Asiatic buffalo, Bubalus bubalis__sorrel__plow, plough__warthog__Arabian camel, dromedary, Camelus dromedarius
+Mini_dataset\ILSVRC2017_test_00000671.JPEG
+__black stork, Ciconia nigra__white stork, Ciconia ciconia__crane__little blue heron, Egretta caerulea__limpkin, Aramus pictus
+Mini_dataset\ILSVRC2017_test_00000674.JPEG
+__red fox, Vulpes vulpes__grey fox, gray fox, Urocyon cinereoargenteus__kit fox, Vulpes macrotis__coyote, prairie wolf, brush wolf, Canis latrans__wallaby, brush kangaroo
+Mini_dataset\ILSVRC2017_test_00000676.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__soccer ball__teddy, teddy bear__indri, indris, Indri indri, Indri brevicaudatus__sloth bear, Melursus ursinus, Ursus ursinus
+Mini_dataset\ILSVRC2017_test_00000678.JPEG
+__crane__American egret, great white heron, Egretta albus__spoonbill__flamingo__little blue heron, Egretta caerulea
+Mini_dataset\ILSVRC2017_test_00000680.JPEG
+__redshank, Tringa totanus__red-backed sandpiper, dunlin, Erolia alpina__ruddy turnstone, Arenaria interpres__water ouzel, dipper__dowitcher
+Mini_dataset\ILSVRC2017_test_00000688.JPEG
+__spoonbill__flamingo__crane__American egret, great white heron, Egretta albus__white stork, Ciconia ciconia
+Mini_dataset\ILSVRC2017_test_00000691.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__acorn__pot, flowerpot__grey fox, gray fox, Urocyon cinereoargenteus__marmoset
+Mini_dataset\ILSVRC2017_test_00000696.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__sloth bear, Melursus ursinus, Ursus ursinus__badger__American black bear, black bear, Ursus americanus, Euarctos americanus__hog, pig, grunter, squealer, Sus scrofa
+Mini_dataset\ILSVRC2017_test_00000708.JPEG
+__bustard__bittern__bulbul__kite__chickadee
+Mini_dataset\ILSVRC2017_test_00000709.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__indri, indris, Indri indri, Indri brevicaudatus__Madagascar cat, ring-tailed lemur, Lemur catta__three-toed sloth, ai, Bradypus tridactylus__titi, titi monkey
+Mini_dataset\ILSVRC2017_test_00000713.JPEG
+__cowboy hat, ten-gallon hat__sorrel__horse cart, horse-cart__plow, plough__barrel, cask
+Mini_dataset\ILSVRC2017_test_00000715.JPEG
+__jellyfish__chambered nautilus, pearly nautilus, nautilus__shower cap__bonnet, poke bonnet__coral reef
+Mini_dataset\ILSVRC2017_test_00000716.JPEG
+__bee eater__bulbul__walking stick, walkingstick, stick insect__acorn__goldfinch, Carduelis carduelis
+Mini_dataset\ILSVRC2017_test_00000723.JPEG
+__quail__bulbul__jay__partridge__chickadee
+Mini_dataset\ILSVRC2017_test_00000727.JPEG
+__skunk, polecat, wood pussy__badger__porcupine, hedgehog__schipperke__Pomeranian
+Mini_dataset\ILSVRC2017_test_00000729.JPEG
+__warthog__dhole, Cuon alpinus__bison__impala, Aepyceros melampus__hartebeest
+Mini_dataset\ILSVRC2017_test_00000730.JPEG
+__house finch, linnet, Carpodacus mexicanus__bee eater__lorikeet__junco, snowbird__indigo bunting, indigo finch, indigo bird, Passerina cyanea
+Mini_dataset\ILSVRC2017_test_00000731.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__badger__goose__French bulldog__Boston bull, Boston terrier
+Mini_dataset\ILSVRC2017_test_00000732.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus__American black bear, black bear, Ursus americanus, Euarctos americanus__brown bear, bruin, Ursus arctos
+Mini_dataset\ILSVRC2017_test_00000734.JPEG
+__Arabian camel, dromedary, Camelus dromedarius__llama__ostrich, Struthio camelus__Irish terrier__Chesapeake Bay retriever
+Mini_dataset\ILSVRC2017_test_00000736.JPEG
+__impala, Aepyceros melampus__gazelle__Italian greyhound__dingo, warrigal, warragal, Canis dingo__red wolf, maned wolf, Canis rufus, Canis niger
+Mini_dataset\ILSVRC2017_test_00000737.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__sloth bear, Melursus ursinus, Ursus ursinus__American black bear, black bear, Ursus americanus, Euarctos americanus__ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus__brown bear, bruin, Ursus arctos
+Mini_dataset\ILSVRC2017_test_00000738.JPEG
+__breakwater, groin, groyne, mole, bulwark, seawall, jetty__promontory, headland, head, foreland__lakeside, lakeshore__seashore, coast, seacoast, sea-coast__sea lion
+Mini_dataset\ILSVRC2017_test_00000740.JPEG
+__stone wall__maze, labyrinth__chainlink fence__shopping cart__suspension bridge
+Mini_dataset\ILSVRC2017_test_00000741.JPEG
+__flamingo__goldfish, Carassius auratus__macaw__cock__jack-o'-lantern
+Mini_dataset\ILSVRC2017_test_00000743.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__lacewing, lacewing fly__cicada, cicala__fly
+Mini_dataset\ILSVRC2017_test_00000744.JPEG
+__goldfish, Carassius auratus__puffer, pufferfish, blowfish, globefish__lionfish__anemone fish__gar, garfish, garpike, billfish, Lepisosteus osseus
+Mini_dataset\ILSVRC2017_test_00000745.JPEG
+__violin, fiddle__cello, violoncello__trombone__banjo__acoustic guitar
+Mini_dataset\ILSVRC2017_test_00000746.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__lacewing, lacewing fly__fly__spider web, spider's web
+Mini_dataset\ILSVRC2017_test_00000751.JPEG
+__sea lion__otter__weasel__mink__marmot
+Mini_dataset\ILSVRC2017_test_00000754.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__cicada, cicala__damselfly__fly__leafhopper
+Mini_dataset\ILSVRC2017_test_00000758.JPEG
+__hippopotamus, hippo, river horse, Hippopotamus amphibius__African crocodile, Nile crocodile, Crocodylus niloticus__wreck__leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea__megalith, megalithic structure
+Mini_dataset\ILSVRC2017_test_00000760.JPEG
+__snowplow, snowplough__forklift__school bus__garbage truck, dustcart__crane
+Mini_dataset\ILSVRC2017_test_00000761.JPEG
+__hippopotamus, hippo, river horse, Hippopotamus amphibius__hartebeest__Indian elephant, Elephas maximus__triceratops__warthog
+Mini_dataset\ILSVRC2017_test_00000762.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__lacewing, lacewing fly__fly__grasshopper, hopper
+Mini_dataset\ILSVRC2017_test_00000765.JPEG
+__marmoset__titi, titi monkey__langur__capuchin, ringtail, Cebus capucinus__guenon, guenon monkey
+Mini_dataset\ILSVRC2017_test_00000766.JPEG
+__goblet__beer glass__cup__eggnog__espresso
+Mini_dataset\ILSVRC2017_test_00000767.JPEG
+__coucal__toucan__magpie__bulbul__bee eater
+Mini_dataset\ILSVRC2017_test_00000769.JPEG
+__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__leaf beetle, chrysomelid__monarch, monarch butterfly, milkweed butterfly, Danaus plexippus__hip, rose hip, rosehip__admiral
+Mini_dataset\ILSVRC2017_test_00000771.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__red fox, Vulpes vulpes__polecat, fitch, foulmart, foumart, Mustela putorius__titi, titi monkey__indri, indris, Indri indri, Indri brevicaudatus
+Mini_dataset\ILSVRC2017_test_00000773.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__malamute, malemute, Alaskan malamute__polecat, fitch, foulmart, foumart, Mustela putorius__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__Eskimo dog, husky
+Mini_dataset\ILSVRC2017_test_00000775.JPEG
+__tiger, Panthera tigris__tiger cat__lynx, catamount__zebra__cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+Mini_dataset\ILSVRC2017_test_00000779.JPEG
+__sorrel__horse cart, horse-cart__Irish setter, red setter__worm fence, snake fence, snake-rail fence, Virginia fence__ox
+Mini_dataset\ILSVRC2017_test_00000785.JPEG
+__howler monkey, howler__titi, titi monkey__spider monkey, Ateles geoffroyi__patas, hussar monkey, Erythrocebus patas__orangutan, orang, orangutang, Pongo pygmaeus
+Mini_dataset\ILSVRC2017_test_00000787.JPEG
+__beaver__porcupine, hedgehog__otter__guinea pig, Cavia cobaya__cairn, cairn terrier
+Mini_dataset\ILSVRC2017_test_00000789.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__polecat, fitch, foulmart, foumart, Mustela putorius__red fox, Vulpes vulpes__indri, indris, Indri indri, Indri brevicaudatus__Madagascar cat, ring-tailed lemur, Lemur catta
+Mini_dataset\ILSVRC2017_test_00000792.JPEG
+__horse cart, horse-cart__sorrel__plow, plough__cowboy hat, ten-gallon hat__muzzle
+Mini_dataset\ILSVRC2017_test_00000793.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__ram, tup__Cardigan, Cardigan Welsh corgi__Siberian husky__badger
+Mini_dataset\ILSVRC2017_test_00000794.JPEG
+__snail__acorn__conch__slug__hermit crab
+Mini_dataset\ILSVRC2017_test_00000795.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__red fox, Vulpes vulpes__indri, indris, Indri indri, Indri brevicaudatus__polecat, fitch, foulmart, foumart, Mustela putorius__titi, titi monkey
+Mini_dataset\ILSVRC2017_test_00000801.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__teddy, teddy bear__badger__indri, indris, Indri indri, Indri brevicaudatus__American black bear, black bear, Ursus americanus, Euarctos americanus
+Mini_dataset\ILSVRC2017_test_00000803.JPEG
+__flamingo__stinkhorn, carrion fungus__macaw__spoonbill__cock
+Mini_dataset\ILSVRC2017_test_00000804.JPEG
+__goldfish, Carassius auratus__anemone fish__tench, Tinca tinca__rock beauty, Holocanthus tricolor__puffer, pufferfish, blowfish, globefish
+Mini_dataset\ILSVRC2017_test_00000806.JPEG
+__ibex, Capra ibex__bison__gazelle__bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis__llama
+Mini_dataset\ILSVRC2017_test_00000808.JPEG
+__great grey owl, great gray owl, Strix nebulosa__kite__bald eagle, American eagle, Haliaeetus leucocephalus__marmoset__snow leopard, ounce, Panthera uncia
+Mini_dataset\ILSVRC2017_test_00000811.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__orangutan, orang, orangutang, Pongo pygmaeus__coucal__howler monkey, howler__titi, titi monkey
+Mini_dataset\ILSVRC2017_test_00000816.JPEG
+__otter__beaver__mink__weasel__sea lion
+Mini_dataset\ILSVRC2017_test_00000817.JPEG
+__recreational vehicle, RV, R.V.__fire engine, fire truck__moving van__trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi__tow truck, tow car, wrecker
+Mini_dataset\ILSVRC2017_test_00000818.JPEG
+__zebra__tiger, Panthera tigris__tiger cat__gazelle__Madagascar cat, ring-tailed lemur, Lemur catta
+Mini_dataset\ILSVRC2017_test_00000820.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__three-toed sloth, ai, Bradypus tridactylus__Madagascar cat, ring-tailed lemur, Lemur catta__wombat__proboscis monkey, Nasalis larvatus
+Mini_dataset\ILSVRC2017_test_00000822.JPEG
+__American black bear, black bear, Ursus americanus, Euarctos americanus__mink__weasel__brown bear, bruin, Ursus arctos__marmot
+Mini_dataset\ILSVRC2017_test_00000827.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__fly__lacewing, lacewing fly__tiger beetle
+Mini_dataset\ILSVRC2017_test_00000828.JPEG
+__strawberry__guacamole__pineapple, ananas__ice cream, icecream__plate
+Mini_dataset\ILSVRC2017_test_00000830.JPEG
+__snail__leafhopper__slug__leaf beetle, chrysomelid__lycaenid, lycaenid butterfly
+Mini_dataset\ILSVRC2017_test_00000834.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__Madagascar cat, ring-tailed lemur, Lemur catta__indri, indris, Indri indri, Indri brevicaudatus__cougar, puma, catamount, mountain lion, painter, panther, Felis concolor__wallaby, brush kangaroo
+Mini_dataset\ILSVRC2017_test_00000835.JPEG
+__starfish, sea star__sea urchin__sea cucumber, holothurian__coral reef__hermit crab
+Mini_dataset\ILSVRC2017_test_00000839.JPEG
+__anemone fish__goldfish, Carassius auratus__sea anemone, anemone__coral reef__rock beauty, Holocanthus tricolor
+Mini_dataset\ILSVRC2017_test_00000841.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__titi, titi monkey__red fox, Vulpes vulpes__indri, indris, Indri indri, Indri brevicaudatus__kit fox, Vulpes macrotis
+Mini_dataset\ILSVRC2017_test_00000842.JPEG
+__skunk, polecat, wood pussy__badger__polecat, fitch, foulmart, foumart, Mustela putorius__sloth bear, Melursus ursinus, Ursus ursinus__guinea pig, Cavia cobaya
+Mini_dataset\ILSVRC2017_test_00000844.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__Madagascar cat, ring-tailed lemur, Lemur catta__squirrel monkey, Saimiri sciureus__indri, indris, Indri indri, Indri brevicaudatus__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+Mini_dataset\ILSVRC2017_test_00000846.JPEG
+__damselfly__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__walking stick, walkingstick, stick insect__lacewing, lacewing fly__tiger beetle
+Mini_dataset\ILSVRC2017_test_00000851.JPEG
+__goldfish, Carassius auratus__puffer, pufferfish, blowfish, globefish__gar, garfish, garpike, billfish, Lepisosteus osseus__axolotl, mud puppy, Ambystoma mexicanum__tench, Tinca tinca
+Mini_dataset\ILSVRC2017_test_00000852.JPEG
+__llama__ox__standard poodle__muzzle__Irish wolfhound
+Mini_dataset\ILSVRC2017_test_00000853.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__gibbon, Hylobates lar__colobus, colobus monkey__indri, indris, Indri indri, Indri brevicaudatus__langur
+Mini_dataset\ILSVRC2017_test_00000855.JPEG
+__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__polecat, fitch, foulmart, foumart, Mustela putorius__red fox, Vulpes vulpes__weasel__kit fox, Vulpes macrotis
+Mini_dataset\ILSVRC2017_test_00000856.JPEG
+__fox squirrel, eastern fox squirrel, Sciurus niger__porcupine, hedgehog__meerkat, mierkat__beaver__mongoose
+Mini_dataset\ILSVRC2017_test_00000859.JPEG
+__plow, plough__horse cart, horse-cart__barrel, cask__worm fence, snake fence, snake-rail fence, Virginia fence__sorrel
+Mini_dataset\ILSVRC2017_test_00000862.JPEG
+__skunk, polecat, wood pussy__badger__African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus__Border collie__hog, pig, grunter, squealer, Sus scrofa
+Mini_dataset\ILSVRC2017_test_00000865.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__white wolf, Arctic wolf, Canis lupus tundrarum__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__Arctic fox, white fox, Alopex lagopus__American black bear, black bear, Ursus americanus, Euarctos americanus
+Mini_dataset\ILSVRC2017_test_00000866.JPEG
+__albatross, mollymawk__oystercatcher, oyster catcher__goose__black stork, Ciconia nigra__magpie
+Mini_dataset\ILSVRC2017_test_00000869.JPEG
+__goldfish, Carassius auratus__anemone fish__sea anemone, anemone__coral reef__sea slug, nudibranch
+Mini_dataset\ILSVRC2017_test_00000871.JPEG
+__American egret, great white heron, Egretta albus__crane__little blue heron, Egretta caerulea__spoonbill__pelican
+Mini_dataset\ILSVRC2017_test_00000872.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__American black bear, black bear, Ursus americanus, Euarctos americanus__soccer ball__teddy, teddy bear__indri, indris, Indri indri, Indri brevicaudatus
+Mini_dataset\ILSVRC2017_test_00000876.JPEG
+__porcupine, hedgehog__echidna, spiny anteater, anteater__howler monkey, howler__ostrich, Struthio camelus__titi, titi monkey
+Mini_dataset\ILSVRC2017_test_00000881.JPEG
+__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__leaf beetle, chrysomelid__bee__fly__weevil
+Mini_dataset\ILSVRC2017_test_00000894.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__teddy, teddy bear__soccer ball__badger__dalmatian, coach dog, carriage dog
+Mini_dataset\ILSVRC2017_test_00000895.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__Madagascar cat, ring-tailed lemur, Lemur catta__proboscis monkey, Nasalis larvatus__three-toed sloth, ai, Bradypus tridactylus__indri, indris, Indri indri, Indri brevicaudatus
+Mini_dataset\ILSVRC2017_test_00000897.JPEG
+__snail__conch__isopod__bee__hermit crab
+Mini_dataset\ILSVRC2017_test_00000898.JPEG
+__timber wolf, grey wolf, gray wolf, Canis lupus__American black bear, black bear, Ursus americanus, Euarctos americanus__wild boar, boar, Sus scrofa__African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus__dingo, warrigal, warragal, Canis dingo
+Mini_dataset\ILSVRC2017_test_00000901.JPEG
+__bee__fly__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__ant, emmet, pismire__leaf beetle, chrysomelid
+Mini_dataset\ILSVRC2017_test_00000912.JPEG
+__horse cart, horse-cart__military uniform__shield, buckler__cuirass__plow, plough
+Mini_dataset\ILSVRC2017_test_00000918.JPEG
+__Arabian camel, dromedary, Camelus dromedarius__chain saw, chainsaw__Indian elephant, Elephas maximus__African elephant, Loxodonta africana__hartebeest
+Mini_dataset\ILSVRC2017_test_00000920.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__fly__lacewing, lacewing fly__black and gold garden spider, Argiope aurantia
+Mini_dataset\ILSVRC2017_test_00000926.JPEG
+__drake__goose__red-breasted merganser, Mergus serrator__dowitcher__American coot, marsh hen, mud hen, water hen, Fulica americana
+Mini_dataset\ILSVRC2017_test_00000927.JPEG
+__goose__crane__albatross, mollymawk__American egret, great white heron, Egretta albus__red-breasted merganser, Mergus serrator
+Mini_dataset\ILSVRC2017_test_00000928.JPEG
+__standard poodle__curly-coated retriever__miniature poodle__toy poodle__Kerry blue terrier
+Mini_dataset\ILSVRC2017_test_00000929.JPEG
+__dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk__damselfly__lycaenid, lycaenid butterfly__ant, emmet, pismire__tick
+Mini_dataset\ILSVRC2017_test_00000930.JPEG
+__bee__daisy__fly__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__cardoon
+Mini_dataset\ILSVRC2017_test_00000932.JPEG
+__bulbul__macaw__lorikeet__bee eater__jacamar
+Mini_dataset\ILSVRC2017_test_00000933.JPEG
+__sorrel__worm fence, snake fence, snake-rail fence, Virginia fence__horse cart, horse-cart__barrel, cask__groenendael
+Mini_dataset\ILSVRC2017_test_00000934.JPEG
+__horse cart, horse-cart__plow, plough__sorrel__barrel, cask__muzzle
+Mini_dataset\ILSVRC2017_test_00000936.JPEG
+__monarch, monarch butterfly, milkweed butterfly, Danaus plexippus__ringlet, ringlet butterfly__lycaenid, lycaenid butterfly__sulphur butterfly, sulfur butterfly__admiral
+Mini_dataset\ILSVRC2017_test_00000939.JPEG
+__American egret, great white heron, Egretta albus__drake__pelican__goose__oystercatcher, oyster catcher
+Mini_dataset\ILSVRC2017_test_00000941.JPEG
+__oystercatcher, oyster catcher__ruddy turnstone, Arenaria interpres__redshank, Tringa totanus__black stork, Ciconia nigra__European gallinule, Porphyrio porphyrio
+Mini_dataset\ILSVRC2017_test_00000943.JPEG
+__indigo bunting, indigo finch, indigo bird, Passerina cyanea__lorikeet__jacamar__European gallinule, Porphyrio porphyrio__hummingbird
+Mini_dataset\ILSVRC2017_test_00000944.JPEG
+__tiger, Panthera tigris__tiger cat__tabby, tabby cat__leopard, Panthera pardus__jaguar, panther, Panthera onca, Felis onca
+Mini_dataset\ILSVRC2017_test_00000949.JPEG
+__grey fox, gray fox, Urocyon cinereoargenteus__kit fox, Vulpes macrotis__red fox, Vulpes vulpes__coyote, prairie wolf, brush wolf, Canis latrans__red wolf, maned wolf, Canis rufus, Canis niger
+Mini_dataset\ILSVRC2017_test_00000950.JPEG
+__langur__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__colobus, colobus monkey__spider monkey, Ateles geoffroyi__howler monkey, howler
+Mini_dataset\ILSVRC2017_test_00000960.JPEG
+__scorpion__Dungeness crab, Cancer magister__isopod__king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica__fiddler crab
+Mini_dataset\ILSVRC2017_test_00000961.JPEG
+__quail__partridge__bustard__goose__magpie
+Mini_dataset\ILSVRC2017_test_00000963.JPEG
+__porcupine, hedgehog__langur__colobus, colobus monkey__three-toed sloth, ai, Bradypus tridactylus__spider monkey, Ateles geoffroyi
+Mini_dataset\ILSVRC2017_test_00000964.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__colobus, colobus monkey__gibbon, Hylobates lar__capuchin, ringtail, Cebus capucinus__sloth bear, Melursus ursinus, Ursus ursinus
+Mini_dataset\ILSVRC2017_test_00000967.JPEG
+__jay__little blue heron, Egretta caerulea__magpie__quail__chickadee
+Mini_dataset\ILSVRC2017_test_00000968.JPEG
+__goldfish, Carassius auratus__anemone fish__macaw__coral reef__rock beauty, Holocanthus tricolor
+Mini_dataset\ILSVRC2017_test_00000970.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__indri, indris, Indri indri, Indri brevicaudatus__three-toed sloth, ai, Bradypus tridactylus__Madagascar cat, ring-tailed lemur, Lemur catta__marmoset
+Mini_dataset\ILSVRC2017_test_00000971.JPEG
+__bolete__pomegranate__acorn__pot, flowerpot__mushroom
+Mini_dataset\ILSVRC2017_test_00000972.JPEG
+__marmoset__mousetrap__hamster__polecat, fitch, foulmart, foumart, Mustela putorius__capuchin, ringtail, Cebus capucinus
+Mini_dataset\ILSVRC2017_test_00000974.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__indri, indris, Indri indri, Indri brevicaudatus__gibbon, Hylobates lar__colobus, colobus monkey__capuchin, ringtail, Cebus capucinus
+Mini_dataset\ILSVRC2017_test_00000978.JPEG
+__grey fox, gray fox, Urocyon cinereoargenteus__kit fox, Vulpes macrotis__red fox, Vulpes vulpes__mongoose__Arctic fox, white fox, Alopex lagopus
+Mini_dataset\ILSVRC2017_test_00000984.JPEG
+__giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca__ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus__lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens__American black bear, black bear, Ursus americanus, Euarctos americanus__colobus, colobus monkey
+Mini_dataset\ILSVRC2017_test_00000988.JPEG
+__koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus__indri, indris, Indri indri, Indri brevicaudatus__macaque__titi, titi monkey__Madagascar cat, ring-tailed lemur, Lemur catta
+Mini_dataset\ILSVRC2017_test_00000991.JPEG
+__ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle__leaf beetle, chrysomelid__hip, rose hip, rosehip__ant, emmet, pismire__monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+Mini_dataset\ILSVRC2017_test_00000995.JPEG
+__goldfish, Carassius auratus__tench, Tinca tinca__rock beauty, Holocanthus tricolor__barracouta, snoek__gar, garfish, garpike, billfish, Lepisosteus osseus
+Mini_dataset\ILSVRC2017_test_00000997.JPEG
+__sea lion__otter__seashore, coast, seacoast, sea-coast__king penguin, Aptenodytes patagonica__dugong, Dugong dugon

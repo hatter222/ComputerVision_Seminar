@@ -1,0 +1,1400 @@
+
+Mini_dataset\ILSVRC2017_test_00000001.JPEG
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor72.80001831054688
+Staffordshire bullterrier, Staffordshire bull terrier8.268978118896484
+lion, king of beasts, Panthera leo3.6896400451660156
+American black bear, black bear, Ursus americanus, Euarctos americanus1.9961105585098267
+kelpie1.473260760307312
+
+Mini_dataset\ILSVRC2017_test_00000004.JPEG
+goldfish, Carassius auratus99.95664978027344
+rock beauty, Holocanthus tricolor0.020316671580076218
+tench, Tinca tinca0.016205541789531708
+screen, CRT screen0.0013699303381145
+gar, garfish, garpike, billfish, Lepisosteus osseus0.0006344823050312698
+
+Mini_dataset\ILSVRC2017_test_00000007.JPEG
+alligator lizard34.15477752685547
+agama20.013179779052734
+frilled lizard, Chlamydosaurus kingi13.676426887512207
+American chameleon, anole, Anolis carolinensis11.381576538085938
+common newt, Triturus vulgaris10.246481895446777
+
+Mini_dataset\ILSVRC2017_test_00000010.JPEG
+limpkin, Aramus pictus43.71959686279297
+prairie chicken, prairie grouse, prairie fowl11.638945579528809
+coucal8.413909912109375
+quail7.911181449890137
+hen5.458274841308594
+
+Mini_dataset\ILSVRC2017_test_00000012.JPEG
+albatross, mollymawk33.48255920410156
+white stork, Ciconia ciconia12.6925630569458
+kite12.083334922790527
+American egret, great white heron, Egretta albus7.11362886428833
+bald eagle, American eagle, Haliaeetus leucocephalus4.800506591796875
+
+Mini_dataset\ILSVRC2017_test_00000014.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens99.9144287109375
+polecat, fitch, foulmart, foumart, Mustela putorius0.03980369120836258
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca0.011495254933834076
+red fox, Vulpes vulpes0.006425368133932352
+black-footed ferret, ferret, Mustela nigripes0.002515051979571581
+
+Mini_dataset\ILSVRC2017_test_00000017.JPEG
+damselfly91.24214935302734
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk8.685625076293945
+lacewing, lacewing fly0.0192580409348011
+tiger beetle0.012796057388186455
+fly0.007532937917858362
+
+Mini_dataset\ILSVRC2017_test_00000018.JPEG
+horse cart, horse-cart72.011474609375
+oxcart7.289107322692871
+cowboy hat, ten-gallon hat1.900130271911621
+plow, plough1.832632303237915
+ox1.6963697671890259
+
+Mini_dataset\ILSVRC2017_test_00000021.JPEG
+daisy37.89584732055664
+bee19.47408103942871
+snail12.379127502441406
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle5.844592094421387
+fly3.2603600025177
+
+Mini_dataset\ILSVRC2017_test_00000034.JPEG
+cowboy hat, ten-gallon hat44.25862503051758
+sorrel13.945719718933105
+horse cart, horse-cart8.771764755249023
+bearskin, busby, shako8.092157363891602
+military uniform4.718047618865967
+
+Mini_dataset\ILSVRC2017_test_00000035.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens99.9764175415039
+red fox, Vulpes vulpes0.011704343371093273
+polecat, fitch, foulmart, foumart, Mustela putorius0.004928852431476116
+kit fox, Vulpes macrotis0.0007004693034105003
+grey fox, gray fox, Urocyon cinereoargenteus0.0005730360862798989
+
+Mini_dataset\ILSVRC2017_test_00000037.JPEG
+damselfly68.07105255126953
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk31.87713050842285
+lacewing, lacewing fly0.04255471006035805
+fly0.0029388940893113613
+tiger beetle0.0024472572840750217
+
+Mini_dataset\ILSVRC2017_test_00000038.JPEG
+weasel35.995391845703125
+polecat, fitch, foulmart, foumart, Mustela putorius32.359214782714844
+black-footed ferret, ferret, Mustela nigripes9.595928192138672
+porcupine, hedgehog8.832683563232422
+meerkat, mierkat4.026806354522705
+
+Mini_dataset\ILSVRC2017_test_00000039.JPEG
+otter59.95280838012695
+mink24.916845321655273
+beaver13.158207893371582
+weasel0.7834495306015015
+hippopotamus, hippo, river horse, Hippopotamus amphibius0.3979361653327942
+
+Mini_dataset\ILSVRC2017_test_00000046.JPEG
+bee eater90.65192413330078
+toucan3.5412206649780273
+lorikeet1.3867144584655762
+bulbul0.8896241188049316
+jacamar0.7841096520423889
+
+Mini_dataset\ILSVRC2017_test_00000047.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca97.08476257324219
+American black bear, black bear, Ursus americanus, Euarctos americanus0.9356363415718079
+sloth bear, Melursus ursinus, Ursus ursinus0.36876410245895386
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.1526789516210556
+brown bear, bruin, Ursus arctos0.13252724707126617
+
+Mini_dataset\ILSVRC2017_test_00000048.JPEG
+barrel, cask29.82592010498047
+rain barrel17.03240966796875
+horse cart, horse-cart12.490458488464355
+sorrel11.891877174377441
+plow, plough4.748988151550293
+
+Mini_dataset\ILSVRC2017_test_00000059.JPEG
+drake99.95094299316406
+American coot, marsh hen, mud hen, water hen, Fulica americana0.02453729324042797
+anemone fish0.013204751536250114
+red-breasted merganser, Mergus serrator0.006254495587199926
+goose0.003454864025115967
+
+Mini_dataset\ILSVRC2017_test_00000060.JPEG
+snail99.96641540527344
+African chameleon, Chamaeleo chamaeleon0.005844233091920614
+harvestman, daddy longlegs, Phalangium opilio0.004249026067554951
+conch0.003735703183338046
+acorn0.002990184584632516
+
+Mini_dataset\ILSVRC2017_test_00000062.JPEG
+gorilla, Gorilla gorilla99.59796905517578
+siamang, Hylobates syndactylus, Symphalangus syndactylus0.08210909366607666
+chimpanzee, chimp, Pan troglodytes0.0673288106918335
+gibbon, Hylobates lar0.05531918630003929
+howler monkey, howler0.03722541406750679
+
+Mini_dataset\ILSVRC2017_test_00000068.JPEG
+sorrel85.51029205322266
+horse cart, horse-cart7.645946025848389
+cowboy hat, ten-gallon hat2.3024232387542725
+plow, plough1.575825572013855
+ox0.9115952849388123
+
+Mini_dataset\ILSVRC2017_test_00000076.JPEG
+hippopotamus, hippo, river horse, Hippopotamus amphibius99.78582000732422
+Indian elephant, Elephas maximus0.12138409167528152
+hog, pig, grunter, squealer, Sus scrofa0.028300093486905098
+sea lion0.013171638362109661
+wild boar, boar, Sus scrofa0.01122688315808773
+
+Mini_dataset\ILSVRC2017_test_00000083.JPEG
+tiger, Panthera tigris87.88787841796875
+tiger cat12.043951988220215
+jaguar, panther, Panthera onca, Felis onca0.030813127756118774
+zebra0.016786150634288788
+tabby, tabby cat0.007855597883462906
+
+Mini_dataset\ILSVRC2017_test_00000086.JPEG
+chimpanzee, chimp, Pan troglodytes41.89543914794922
+gorilla, Gorilla gorilla29.657386779785156
+macaque8.443169593811035
+siamang, Hylobates syndactylus, Symphalangus syndactylus2.9456915855407715
+guenon, guenon monkey1.5323821306228638
+
+Mini_dataset\ILSVRC2017_test_00000091.JPEG
+drake99.86650848388672
+red-breasted merganser, Mergus serrator0.053319841623306274
+goose0.030187254771590233
+American coot, marsh hen, mud hen, water hen, Fulica americana0.0298312958329916
+bee eater0.005945974960923195
+
+Mini_dataset\ILSVRC2017_test_00000096.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.9903793334961
+badger0.0019210163736715913
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus0.0013508448610082269
+teddy, teddy bear0.0007250852650031447
+soccer ball0.0006399733829312027
+
+Mini_dataset\ILSVRC2017_test_00000098.JPEG
+goldfish, Carassius auratus99.99378967285156
+axolotl, mud puppy, Ambystoma mexicanum0.002480823313817382
+sea slug, nudibranch0.0011568211484700441
+puffer, pufferfish, blowfish, globefish0.0006362306885421276
+anemone fish0.0003937391156796366
+
+Mini_dataset\ILSVRC2017_test_00000102.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk85.8208236694336
+damselfly13.412490844726562
+fly0.6531482338905334
+tiger beetle0.042464032769203186
+cicada, cicala0.035124268382787704
+
+Mini_dataset\ILSVRC2017_test_00000104.JPEG
+vulture87.73576354980469
+kite2.994849443435669
+African grey, African gray, Psittacus erithacus1.892504334449768
+great grey owl, great gray owl, Strix nebulosa1.355926513671875
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita0.7664485573768616
+
+Mini_dataset\ILSVRC2017_test_00000106.JPEG
+otter99.97415161132812
+polecat, fitch, foulmart, foumart, Mustela putorius0.011299841105937958
+weasel0.006748332176357508
+beaver0.005130409728735685
+mink0.0013069554697722197
+
+Mini_dataset\ILSVRC2017_test_00000114.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.97962951660156
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.005197267979383469
+soccer ball0.004538972862064838
+badger0.0033167703077197075
+brown bear, bruin, Ursus arctos0.0008770699496380985
+
+Mini_dataset\ILSVRC2017_test_00000130.JPEG
+hog, pig, grunter, squealer, Sus scrofa89.90350341796875
+wild boar, boar, Sus scrofa5.902566909790039
+sloth bear, Melursus ursinus, Ursus ursinus1.4078644514083862
+skunk, polecat, wood pussy0.5548542737960815
+polecat, fitch, foulmart, foumart, Mustela putorius0.5434440970420837
+
+Mini_dataset\ILSVRC2017_test_00000547.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.4613037109375
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus0.19292232394218445
+sloth bear, Melursus ursinus, Ursus ursinus0.1070738285779953
+brown bear, bruin, Ursus arctos0.05024857074022293
+American black bear, black bear, Ursus americanus, Euarctos americanus0.03695445880293846
+
+Mini_dataset\ILSVRC2017_test_00000554.JPEG
+brown bear, bruin, Ursus arctos95.62490844726562
+badger1.3563613891601562
+mongoose1.0585144758224487
+hyena, hyaena0.8482204675674438
+wombat0.28016403317451477
+
+Mini_dataset\ILSVRC2017_test_00000557.JPEG
+porcupine, hedgehog98.31924438476562
+mink0.483310729265213
+beaver0.34440141916275024
+Norfolk terrier0.2718506455421448
+weasel0.08418255299329758
+
+Mini_dataset\ILSVRC2017_test_00000558.JPEG
+tiger cat50.84075927734375
+tiger, Panthera tigris46.776573181152344
+chainlink fence0.30336347222328186
+yurt0.15484733879566193
+suspension bridge0.15471433103084564
+
+Mini_dataset\ILSVRC2017_test_00000559.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus99.97479248046875
+Madagascar cat, ring-tailed lemur, Lemur catta0.020505473017692566
+indri, indris, Indri indri, Indri brevicaudatus0.00440626498311758
+wallaby, brush kangaroo0.00010519999341340736
+wombat3.108569944743067e-05
+
+Mini_dataset\ILSVRC2017_test_00000562.JPEG
+muzzle14.62234115600586
+Italian greyhound11.964594841003418
+horse cart, horse-cart8.287181854248047
+whippet7.435006618499756
+cowboy hat, ten-gallon hat5.91140079498291
+
+Mini_dataset\ILSVRC2017_test_00000566.JPEG
+skunk, polecat, wood pussy81.9761962890625
+badger13.375700950622559
+weasel1.664733648300171
+polecat, fitch, foulmart, foumart, Mustela putorius1.5606826543807983
+mink0.8989741206169128
+
+Mini_dataset\ILSVRC2017_test_00000568.JPEG
+sea lion99.99175262451172
+Italian greyhound0.0036576557904481888
+Mexican hairless0.0018194954609498382
+otter0.0009984845528379083
+Weimaraner0.0007906705723144114
+
+Mini_dataset\ILSVRC2017_test_00000569.JPEG
+wild boar, boar, Sus scrofa82.47216796875
+hog, pig, grunter, squealer, Sus scrofa14.164668083190918
+ram, tup0.5908805131912231
+wallaby, brush kangaroo0.42731472849845886
+hare0.3183031678199768
+
+Mini_dataset\ILSVRC2017_test_00000571.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk99.59522247314453
+damselfly0.3961431384086609
+fly0.006153374910354614
+lacewing, lacewing fly0.0020166165195405483
+cicada, cicala6.397887045750394e-05
+
+Mini_dataset\ILSVRC2017_test_00000577.JPEG
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle34.37150955200195
+leaf beetle, chrysomelid30.637083053588867
+bee14.036285400390625
+fly8.113088607788086
+leafhopper3.0800652503967285
+
+Mini_dataset\ILSVRC2017_test_00000578.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens93.12416076660156
+orangutan, orang, orangutang, Pongo pygmaeus3.2517571449279785
+howler monkey, howler3.200460910797119
+spider monkey, Ateles geoffroyi0.17359158396720886
+titi, titi monkey0.053402986377477646
+
+Mini_dataset\ILSVRC2017_test_00000583.JPEG
+black swan, Cygnus atratus99.62312316894531
+goose0.3012639582157135
+European gallinule, Porphyrio porphyrio0.020901136100292206
+American coot, marsh hen, mud hen, water hen, Fulica americana0.017422746866941452
+flamingo0.01091594435274601
+
+Mini_dataset\ILSVRC2017_test_00000589.JPEG
+sorrel93.84879302978516
+barrel, cask2.25818133354187
+worm fence, snake fence, snake-rail fence, Virginia fence1.44290030002594
+horse cart, horse-cart0.9801765084266663
+rain barrel0.5602882504463196
+
+Mini_dataset\ILSVRC2017_test_00000590.JPEG
+goose37.93859100341797
+drake34.78430938720703
+red-breasted merganser, Mergus serrator22.578245162963867
+American coot, marsh hen, mud hen, water hen, Fulica americana2.854447603225708
+crane0.45264729857444763
+
+Mini_dataset\ILSVRC2017_test_00000593.JPEG
+damselfly72.16285705566406
+lacewing, lacewing fly21.614261627197266
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk6.202081203460693
+leafhopper0.005152708385139704
+walking stick, walkingstick, stick insect0.003188700880855322
+
+Mini_dataset\ILSVRC2017_test_00000597.JPEG
+damselfly97.77903747558594
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk2.219240188598633
+lacewing, lacewing fly0.0011379711795598269
+fly0.0003123347705695778
+lycaenid, lycaenid butterfly6.644982931902632e-05
+
+Mini_dataset\ILSVRC2017_test_00000599.JPEG
+English springer, English springer spaniel21.56633949279785
+Walker hound, Walker foxhound12.98688793182373
+beagle9.951990127563477
+basset, basset hound9.691996574401855
+Welsh springer spaniel8.477648735046387
+
+Mini_dataset\ILSVRC2017_test_00000600.JPEG
+red-breasted merganser, Mergus serrator88.57231903076172
+American coot, marsh hen, mud hen, water hen, Fulica americana4.740398406982422
+drake2.6819088459014893
+black swan, Cygnus atratus0.7537076473236084
+water snake0.3414017856121063
+
+Mini_dataset\ILSVRC2017_test_00000603.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus93.69502258300781
+indri, indris, Indri indri, Indri brevicaudatus2.4203944206237793
+Madagascar cat, ring-tailed lemur, Lemur catta0.7007875442504883
+macaque0.5065642595291138
+titi, titi monkey0.48675456643104553
+
+Mini_dataset\ILSVRC2017_test_00000604.JPEG
+goldfish, Carassius auratus99.68367767333984
+tench, Tinca tinca0.15659688413143158
+axolotl, mud puppy, Ambystoma mexicanum0.029524000361561775
+flamingo0.0191500261425972
+coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch0.017212659120559692
+
+Mini_dataset\ILSVRC2017_test_00000606.JPEG
+squirrel monkey, Saimiri sciureus38.96342468261719
+capuchin, ringtail, Cebus capucinus13.66067123413086
+three-toed sloth, ai, Bradypus tridactylus13.098496437072754
+spider monkey, Ateles geoffroyi8.86807632446289
+orangutan, orang, orangutang, Pongo pygmaeus4.5958733558654785
+
+Mini_dataset\ILSVRC2017_test_00000608.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.60053253173828
+teddy, teddy bear0.12287949025630951
+soccer ball0.08260627835988998
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.0787988007068634
+indri, indris, Indri indri, Indri brevicaudatus0.014448100700974464
+
+Mini_dataset\ILSVRC2017_test_00000610.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus99.88481903076172
+wallaby, brush kangaroo0.04414207488298416
+wombat0.0235711969435215
+indri, indris, Indri indri, Indri brevicaudatus0.015600097365677357
+Madagascar cat, ring-tailed lemur, Lemur catta0.014506151899695396
+
+Mini_dataset\ILSVRC2017_test_00000611.JPEG
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle90.94766235351562
+leaf beetle, chrysomelid9.00107192993164
+ant, emmet, pismire0.017799165099859238
+hip, rose hip, rosehip0.006949285510927439
+lycaenid, lycaenid butterfly0.0041097910143435
+
+Mini_dataset\ILSVRC2017_test_00000617.JPEG
+otter98.02631378173828
+weasel1.1868460178375244
+black-footed ferret, ferret, Mustela nigripes0.4555661082267761
+polecat, fitch, foulmart, foumart, Mustela putorius0.12446196377277374
+mink0.09802542626857758
+
+Mini_dataset\ILSVRC2017_test_00000624.JPEG
+bee34.51898956298828
+admiral9.666213035583496
+tarantula9.141664505004883
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk8.801826477050781
+kite5.651552200317383
+
+Mini_dataset\ILSVRC2017_test_00000625.JPEG
+sorrel31.207258224487305
+plow, plough28.8576717376709
+horse cart, horse-cart8.02779769897461
+barrel, cask6.324630260467529
+worm fence, snake fence, snake-rail fence, Virginia fence5.983450412750244
+
+Mini_dataset\ILSVRC2017_test_00000626.JPEG
+zebra99.98680114746094
+gazelle0.012606819160282612
+impala, Aepyceros melampus0.00018761832325253636
+tiger, Panthera tigris0.0001661331334616989
+llama6.502243923023343e-05
+
+Mini_dataset\ILSVRC2017_test_00000631.JPEG
+damselfly98.69287872314453
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk1.299928903579712
+lacewing, lacewing fly0.0024005568120628595
+leafhopper0.000911498034838587
+cicada, cicala0.0008704786305315793
+
+Mini_dataset\ILSVRC2017_test_00000632.JPEG
+Arabian camel, dromedary, Camelus dromedarius99.04660034179688
+weasel0.12007571011781693
+tile roof0.05740462243556976
+llama0.04989812895655632
+black-footed ferret, ferret, Mustela nigripes0.02903411164879799
+
+Mini_dataset\ILSVRC2017_test_00000635.JPEG
+shield, buckler10.541501998901367
+safety pin9.702603340148926
+football helmet8.068475723266602
+golf ball3.138887882232666
+umbrella2.7773995399475098
+
+Mini_dataset\ILSVRC2017_test_00000636.JPEG
+goose94.42818450927734
+albatross, mollymawk1.781267523765564
+crane0.7630643248558044
+black swan, Cygnus atratus0.657065212726593
+white stork, Ciconia ciconia0.4491688311100006
+
+Mini_dataset\ILSVRC2017_test_00000639.JPEG
+borzoi, Russian wolfhound77.21038055419922
+kuvasz12.88303279876709
+Great Pyrenees2.977569818496704
+English setter2.21582293510437
+sandbar, sand bar1.3617117404937744
+
+Mini_dataset\ILSVRC2017_test_00000640.JPEG
+porcupine, hedgehog89.00392150878906
+three-toed sloth, ai, Bradypus tridactylus5.866152763366699
+beaver1.5180500745773315
+brown bear, bruin, Ursus arctos1.367558479309082
+howler monkey, howler1.010127067565918
+
+Mini_dataset\ILSVRC2017_test_00000641.JPEG
+hippopotamus, hippo, river horse, Hippopotamus amphibius85.23423767089844
+coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch6.533268928527832
+French bulldog1.3307387828826904
+Boston bull, Boston terrier1.17466402053833
+Cardigan, Cardigan Welsh corgi0.6637238264083862
+
+Mini_dataset\ILSVRC2017_test_00000645.JPEG
+tiger cat28.109708786010742
+Pembroke, Pembroke Welsh corgi6.955232620239258
+red fox, Vulpes vulpes4.694486618041992
+dhole, Cuon alpinus4.610466480255127
+weasel4.501190185546875
+
+Mini_dataset\ILSVRC2017_test_00000649.JPEG
+sorrel99.46229553222656
+ox0.13921703398227692
+Arabian camel, dromedary, Camelus dromedarius0.057980798184871674
+Welsh springer spaniel0.04188788682222366
+plow, plough0.04059332609176636
+
+Mini_dataset\ILSVRC2017_test_00000650.JPEG
+goldfish, Carassius auratus99.98999786376953
+axolotl, mud puppy, Ambystoma mexicanum0.006612799130380154
+sea slug, nudibranch0.0009881040314212441
+anemone fish0.0005367742269299924
+sea anemone, anemone0.0003274149203207344
+
+Mini_dataset\ILSVRC2017_test_00000652.JPEG
+chickadee50.099609375
+jay31.3588924407959
+bulbul7.5043745040893555
+junco, snowbird7.295831203460693
+quail2.51631760597229
+
+Mini_dataset\ILSVRC2017_test_00000655.JPEG
+damselfly83.01258850097656
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk16.847572326660156
+lacewing, lacewing fly0.13692434132099152
+lycaenid, lycaenid butterfly0.0009297034121118486
+leafhopper0.000481478578876704
+
+Mini_dataset\ILSVRC2017_test_00000656.JPEG
+guenon, guenon monkey75.43409729003906
+spider monkey, Ateles geoffroyi7.948723316192627
+patas, hussar monkey, Erythrocebus patas5.581351280212402
+colobus, colobus monkey2.8493056297302246
+macaque2.5494139194488525
+
+Mini_dataset\ILSVRC2017_test_00000667.JPEG
+great grey owl, great gray owl, Strix nebulosa84.6524887084961
+Madagascar cat, ring-tailed lemur, Lemur catta3.0502688884735107
+lynx, catamount2.1277217864990234
+ruffed grouse, partridge, Bonasa umbellus0.7238659858703613
+indri, indris, Indri indri, Indri brevicaudatus0.6966843605041504
+
+Mini_dataset\ILSVRC2017_test_00000669.JPEG
+Arabian camel, dromedary, Camelus dromedarius24.207883834838867
+sorrel18.802772521972656
+ram, tup9.186786651611328
+llama9.155065536499023
+horse cart, horse-cart8.871142387390137
+
+Mini_dataset\ILSVRC2017_test_00000671.JPEG
+black stork, Ciconia nigra97.81549835205078
+white stork, Ciconia ciconia1.9290121793746948
+limpkin, Aramus pictus0.14039263129234314
+crane0.056972213089466095
+bustard0.010460825636982918
+
+Mini_dataset\ILSVRC2017_test_00000674.JPEG
+wallaby, brush kangaroo14.04013442993164
+wood rabbit, cottontail, cottontail rabbit10.47600269317627
+red fox, Vulpes vulpes5.783897399902344
+kit fox, Vulpes macrotis5.619448184967041
+marmot5.023584365844727
+
+Mini_dataset\ILSVRC2017_test_00000676.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.99333953857422
+soccer ball0.003811393864452839
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.0005964047159068286
+teddy, teddy bear0.0001740966399665922
+kuvasz0.00013927121472079307
+
+Mini_dataset\ILSVRC2017_test_00000678.JPEG
+crane99.7235107421875
+American egret, great white heron, Egretta albus0.22013133764266968
+flamingo0.03568287566304207
+little blue heron, Egretta caerulea0.009632148779928684
+spoonbill0.005650720559060574
+
+Mini_dataset\ILSVRC2017_test_00000680.JPEG
+ruddy turnstone, Arenaria interpres24.49728012084961
+water ouzel, dipper24.164751052856445
+redshank, Tringa totanus21.890117645263672
+albatross, mollymawk10.348090171813965
+oystercatcher, oyster catcher8.475574493408203
+
+Mini_dataset\ILSVRC2017_test_00000688.JPEG
+spoonbill97.87247467041016
+white stork, Ciconia ciconia0.26042449474334717
+crane0.24848659336566925
+American egret, great white heron, Egretta albus0.19596102833747864
+flamingo0.19347164034843445
+
+Mini_dataset\ILSVRC2017_test_00000691.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus99.03949737548828
+acorn0.28926387429237366
+mongoose0.12056037038564682
+marmoset0.11677781492471695
+three-toed sloth, ai, Bradypus tridactylus0.048112496733665466
+
+Mini_dataset\ILSVRC2017_test_00000696.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca82.90701293945312
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus3.2070810794830322
+teddy, teddy bear2.016357898712158
+hog, pig, grunter, squealer, Sus scrofa1.3887892961502075
+weasel0.7652592658996582
+
+Mini_dataset\ILSVRC2017_test_00000708.JPEG
+bustard43.719627380371094
+kite12.366393089294434
+great grey owl, great gray owl, Strix nebulosa9.44546127319336
+ptarmigan5.44262170791626
+prairie chicken, prairie grouse, prairie fowl3.8195881843566895
+
+Mini_dataset\ILSVRC2017_test_00000709.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus99.9315414428711
+Madagascar cat, ring-tailed lemur, Lemur catta0.04865308478474617
+indri, indris, Indri indri, Indri brevicaudatus0.018680673092603683
+fox squirrel, eastern fox squirrel, Sciurus niger0.0006446525221690536
+titi, titi monkey0.00016312913794536144
+
+Mini_dataset\ILSVRC2017_test_00000713.JPEG
+cowboy hat, ten-gallon hat30.946853637695312
+barrel, cask18.94942855834961
+sorrel12.30207347869873
+plow, plough11.28551959991455
+horse cart, horse-cart7.289968490600586
+
+Mini_dataset\ILSVRC2017_test_00000715.JPEG
+jellyfish99.97773742675781
+bonnet, poke bonnet0.007007922977209091
+chambered nautilus, pearly nautilus, nautilus0.0037963406648486853
+sea slug, nudibranch0.0018947259522974491
+coral reef0.0015152257401496172
+
+Mini_dataset\ILSVRC2017_test_00000716.JPEG
+walking stick, walkingstick, stick insect19.457292556762695
+pole8.700010299682617
+fig7.0107502937316895
+buckeye, horse chestnut, conker4.879390239715576
+house finch, linnet, Carpodacus mexicanus3.481872797012329
+
+Mini_dataset\ILSVRC2017_test_00000723.JPEG
+quail59.55145263671875
+partridge15.447288513183594
+ruffed grouse, partridge, Bonasa umbellus6.631079196929932
+jay5.518863677978516
+brambling, Fringilla montifringilla2.392341375350952
+
+Mini_dataset\ILSVRC2017_test_00000727.JPEG
+skunk, polecat, wood pussy65.63836669921875
+tarantula7.599171161651611
+quill, quill pen1.4639419317245483
+frying pan, frypan, skillet0.721528172492981
+porcupine, hedgehog0.6741368174552917
+
+Mini_dataset\ILSVRC2017_test_00000729.JPEG
+dhole, Cuon alpinus41.704532623291016
+warthog31.15968132019043
+impala, Aepyceros melampus6.916774272918701
+mongoose6.381474494934082
+lion, king of beasts, Panthera leo2.6029462814331055
+
+Mini_dataset\ILSVRC2017_test_00000730.JPEG
+house finch, linnet, Carpodacus mexicanus75.94786834716797
+bee eater6.154115676879883
+brambling, Fringilla montifringilla3.371061325073242
+bulbul1.5058307647705078
+goldfinch, Carduelis carduelis1.4217915534973145
+
+Mini_dataset\ILSVRC2017_test_00000731.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca68.32717895507812
+soccer ball6.0523762702941895
+French bulldog5.972179412841797
+toy terrier2.0579657554626465
+goose1.8156081438064575
+
+Mini_dataset\ILSVRC2017_test_00000732.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca98.5230484008789
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.16425196826457977
+indri, indris, Indri indri, Indri brevicaudatus0.06887524574995041
+badger0.05108201131224632
+soccer ball0.04046963155269623
+
+Mini_dataset\ILSVRC2017_test_00000734.JPEG
+Arabian camel, dromedary, Camelus dromedarius99.9995346069336
+llama0.00040569002158008516
+ostrich, Struthio camelus2.6891233574133366e-05
+gazelle1.3025980479142163e-05
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis1.1814615390903782e-05
+
+Mini_dataset\ILSVRC2017_test_00000736.JPEG
+wallaby, brush kangaroo37.53794860839844
+red fox, Vulpes vulpes17.926849365234375
+kit fox, Vulpes macrotis6.657415390014648
+dhole, Cuon alpinus6.364235877990723
+impala, Aepyceros melampus5.635868072509766
+
+Mini_dataset\ILSVRC2017_test_00000737.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.94441986083984
+sloth bear, Melursus ursinus, Ursus ursinus0.016011575236916542
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.013588134199380875
+American black bear, black bear, Ursus americanus, Euarctos americanus0.0066519323736429214
+brown bear, bruin, Ursus arctos0.002565308939665556
+
+Mini_dataset\ILSVRC2017_test_00000738.JPEG
+breakwater, groin, groyne, mole, bulwark, seawall, jetty67.27464294433594
+promontory, headland, head, foreland11.588932991027832
+sea lion5.724111080169678
+lakeside, lakeshore3.885810136795044
+seashore, coast, seacoast, sea-coast2.2332842350006104
+
+Mini_dataset\ILSVRC2017_test_00000740.JPEG
+chainlink fence11.360575675964355
+suspension bridge7.772666931152344
+maze, labyrinth6.999965190887451
+shopping cart6.836777210235596
+stone wall6.290003776550293
+
+Mini_dataset\ILSVRC2017_test_00000741.JPEG
+flamingo99.67001342773438
+goldfish, Carassius auratus0.14493997395038605
+pelican0.017550764605402946
+lakeside, lakeshore0.01114773377776146
+plastic bag0.0061977640725672245
+
+Mini_dataset\ILSVRC2017_test_00000743.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk94.27355194091797
+damselfly1.4360954761505127
+black and gold garden spider, Argiope aurantia1.4302388429641724
+garden spider, Aranea diademata1.144924521446228
+black widow, Latrodectus mactans0.40085405111312866
+
+Mini_dataset\ILSVRC2017_test_00000744.JPEG
+goldfish, Carassius auratus99.99796295166016
+tench, Tinca tinca0.0008369244169443846
+gar, garfish, garpike, billfish, Lepisosteus osseus0.00043798942351713777
+barracouta, snoek0.0002742946380749345
+puffer, pufferfish, blowfish, globefish0.0002669642271939665
+
+Mini_dataset\ILSVRC2017_test_00000745.JPEG
+violin, fiddle96.74136352539062
+cello, violoncello3.2476305961608887
+trombone0.008494982495903969
+bow0.0007475581369362772
+marimba, xylophone0.00028333166847005486
+
+Mini_dataset\ILSVRC2017_test_00000746.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk99.80255126953125
+damselfly0.19741381704807281
+fly2.689773464226164e-05
+lacewing, lacewing fly8.415062438871246e-06
+wolf spider, hunting spider3.7772113614664704e-07
+
+Mini_dataset\ILSVRC2017_test_00000751.JPEG
+sea lion74.08655548095703
+otter19.790555953979492
+marmot2.935312271118164
+weasel2.534776449203491
+black-footed ferret, ferret, Mustela nigripes0.2491862028837204
+
+Mini_dataset\ILSVRC2017_test_00000754.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk91.0077896118164
+damselfly7.548938751220703
+lacewing, lacewing fly0.45400187373161316
+fly0.2023206353187561
+cicada, cicala0.16456788778305054
+
+Mini_dataset\ILSVRC2017_test_00000758.JPEG
+hippopotamus, hippo, river horse, Hippopotamus amphibius11.964251518249512
+wreck7.23123836517334
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis6.797403812408447
+ram, tup4.855891227722168
+megalith, megalithic structure4.169684410095215
+
+Mini_dataset\ILSVRC2017_test_00000760.JPEG
+garbage truck, dustcart88.32278442382812
+snowplow, snowplough11.05154037475586
+school bus0.09174831956624985
+shovel0.07608553022146225
+snowmobile0.06831759214401245
+
+Mini_dataset\ILSVRC2017_test_00000761.JPEG
+hippopotamus, hippo, river horse, Hippopotamus amphibius99.9980239868164
+sea lion0.0012201598146930337
+Dungeness crab, Cancer magister0.00010716715041780844
+drake6.77149000694044e-05
+armadillo5.200409941608086e-05
+
+Mini_dataset\ILSVRC2017_test_00000762.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk99.18197631835938
+damselfly0.8158120512962341
+lacewing, lacewing fly0.0021689741406589746
+fly1.6541616787435487e-05
+cicada, cicala3.3541816719662165e-06
+
+Mini_dataset\ILSVRC2017_test_00000765.JPEG
+titi, titi monkey58.565731048583984
+marmoset41.19010925292969
+langur0.07865491509437561
+gibbon, Hylobates lar0.07460467517375946
+colobus, colobus monkey0.03095155768096447
+
+Mini_dataset\ILSVRC2017_test_00000766.JPEG
+eggnog84.32286071777344
+cocktail shaker8.542669296264648
+trifle1.518024206161499
+beer glass1.233760118484497
+espresso0.9750495553016663
+
+Mini_dataset\ILSVRC2017_test_00000767.JPEG
+bee eater45.10789108276367
+bulbul18.640254974365234
+toucan11.89542007446289
+jacamar7.543801307678223
+hummingbird3.511091709136963
+
+Mini_dataset\ILSVRC2017_test_00000769.JPEG
+rapeseed50.44112777709961
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle36.25810623168945
+leaf beetle, chrysomelid6.406347274780273
+long-horned beetle, longicorn, longicorn beetle0.8651762008666992
+fly0.8367919325828552
+
+Mini_dataset\ILSVRC2017_test_00000771.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens99.98786163330078
+polecat, fitch, foulmart, foumart, Mustela putorius0.004584374837577343
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca0.004188943188637495
+weasel0.00044790125684812665
+red fox, Vulpes vulpes0.00023926141147967428
+
+Mini_dataset\ILSVRC2017_test_00000773.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens76.8166275024414
+red wolf, maned wolf, Canis rufus, Canis niger4.2507476806640625
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca2.940133571624756
+Eskimo dog, husky2.499729871749878
+timber wolf, grey wolf, gray wolf, Canis lupus2.339630126953125
+
+Mini_dataset\ILSVRC2017_test_00000775.JPEG
+tiger, Panthera tigris94.88414001464844
+tiger cat4.92298698425293
+lynx, catamount0.06623250246047974
+jaguar, panther, Panthera onca, Felis onca0.023016298189759254
+zebra0.016750894486904144
+
+Mini_dataset\ILSVRC2017_test_00000779.JPEG
+sorrel99.8695068359375
+horse cart, horse-cart0.0699765682220459
+Irish setter, red setter0.028807999566197395
+cowboy boot0.008687037974596024
+ox0.004419227596372366
+
+Mini_dataset\ILSVRC2017_test_00000785.JPEG
+howler monkey, howler97.89289855957031
+titi, titi monkey1.4819806814193726
+orangutan, orang, orangutang, Pongo pygmaeus0.3077200651168823
+patas, hussar monkey, Erythrocebus patas0.12227483093738556
+proboscis monkey, Nasalis larvatus0.03447936475276947
+
+Mini_dataset\ILSVRC2017_test_00000787.JPEG
+beaver97.77696990966797
+otter1.4663300514221191
+mink0.19762390851974487
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus0.1456306427717209
+porcupine, hedgehog0.057703785598278046
+
+Mini_dataset\ILSVRC2017_test_00000789.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens99.97834777832031
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca0.014741004444658756
+polecat, fitch, foulmart, foumart, Mustela putorius0.0028955345042049885
+toucan0.00023875497572589666
+patas, hussar monkey, Erythrocebus patas0.00023683505423832685
+
+Mini_dataset\ILSVRC2017_test_00000792.JPEG
+sorrel60.740081787109375
+horse cart, horse-cart26.709444046020508
+cowboy hat, ten-gallon hat2.9989380836486816
+worm fence, snake fence, snake-rail fence, Virginia fence2.901629686355591
+muzzle1.3433696031570435
+
+Mini_dataset\ILSVRC2017_test_00000793.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca91.10587310791016
+German shepherd, German shepherd dog, German police dog, alsatian1.4166926145553589
+badger0.9575461149215698
+hog, pig, grunter, squealer, Sus scrofa0.5699280500411987
+malamute, malemute, Alaskan malamute0.408314973115921
+
+Mini_dataset\ILSVRC2017_test_00000794.JPEG
+snail99.81925964355469
+conch0.0712474137544632
+hermit crab0.06113993749022484
+slug0.04344630241394043
+sea urchin0.00042618572479113936
+
+Mini_dataset\ILSVRC2017_test_00000795.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens99.99190521240234
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca0.004517246037721634
+brown bear, bruin, Ursus arctos0.0009015187970362604
+polecat, fitch, foulmart, foumart, Mustela putorius0.0007515658508054912
+red fox, Vulpes vulpes0.0002858463558368385
+
+Mini_dataset\ILSVRC2017_test_00000801.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.98478698730469
+soccer ball0.002447469625622034
+teddy, teddy bear0.001959769055247307
+ram, tup0.0018385357689112425
+badger0.001648859353736043
+
+Mini_dataset\ILSVRC2017_test_00000803.JPEG
+macaw19.259838104248047
+flamingo11.630891799926758
+knot9.690306663513184
+stinkhorn, carrion fungus8.20779800415039
+spoonbill8.10770034790039
+
+Mini_dataset\ILSVRC2017_test_00000804.JPEG
+goldfish, Carassius auratus98.38994598388672
+rock beauty, Holocanthus tricolor0.8612427711486816
+anemone fish0.2650051712989807
+tench, Tinca tinca0.22778499126434326
+puffer, pufferfish, blowfish, globefish0.08583299070596695
+
+Mini_dataset\ILSVRC2017_test_00000806.JPEG
+ibex, Capra ibex80.4039306640625
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis5.7495341300964355
+ram, tup5.487117767333984
+impala, Aepyceros melampus0.9840112328529358
+hare0.9686654210090637
+
+Mini_dataset\ILSVRC2017_test_00000808.JPEG
+great grey owl, great gray owl, Strix nebulosa79.36975860595703
+bald eagle, American eagle, Haliaeetus leucocephalus3.6171765327453613
+langur2.642186403274536
+kite2.354949474334717
+indri, indris, Indri indri, Indri brevicaudatus1.9794176816940308
+
+Mini_dataset\ILSVRC2017_test_00000811.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens96.04132843017578
+orangutan, orang, orangutang, Pongo pygmaeus2.8019261360168457
+howler monkey, howler0.7337959408760071
+spider monkey, Ateles geoffroyi0.10631955415010452
+coucal0.07021787017583847
+
+Mini_dataset\ILSVRC2017_test_00000816.JPEG
+otter99.9112777709961
+mink0.04326513037085533
+beaver0.02565421164035797
+weasel0.015352100133895874
+sea lion0.002750121057033539
+
+Mini_dataset\ILSVRC2017_test_00000817.JPEG
+recreational vehicle, RV, R.V.91.8068618774414
+fire engine, fire truck2.664928674697876
+mobile home, manufactured home0.9323152899742126
+stretcher0.3075709044933319
+African elephant, Loxodonta africana0.2967138886451721
+
+Mini_dataset\ILSVRC2017_test_00000818.JPEG
+zebra99.99153900146484
+warthog0.0021733413450419903
+gazelle0.0013582858955487609
+tiger, Panthera tigris0.0010147917782887816
+African elephant, Loxodonta africana0.00040914336568675935
+
+Mini_dataset\ILSVRC2017_test_00000820.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus97.32386779785156
+boa constrictor, Constrictor constrictor2.3983864784240723
+indri, indris, Indri indri, Indri brevicaudatus0.042418356984853745
+Madagascar cat, ring-tailed lemur, Lemur catta0.023800671100616455
+rock python, rock snake, Python sebae0.023490093648433685
+
+Mini_dataset\ILSVRC2017_test_00000822.JPEG
+American black bear, black bear, Ursus americanus, Euarctos americanus85.16578674316406
+mink10.173795700073242
+weasel1.1842899322509766
+marmot0.7345454096794128
+schipperke0.31206420063972473
+
+Mini_dataset\ILSVRC2017_test_00000827.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk97.7239990234375
+damselfly2.2715420722961426
+lacewing, lacewing fly0.0020258722361177206
+fly0.0011033568298444152
+tiger beetle0.0007547977729700506
+
+Mini_dataset\ILSVRC2017_test_00000828.JPEG
+guacamole56.03740310668945
+burrito14.298049926757812
+hotdog, hot dog, red hot5.623974800109863
+head cabbage2.384159564971924
+strawberry2.2493152618408203
+
+Mini_dataset\ILSVRC2017_test_00000830.JPEG
+snail99.97679901123047
+slug0.023024316877126694
+acorn6.615086022065952e-05
+conch3.482429383439012e-05
+leafhopper2.02169921976747e-05
+
+Mini_dataset\ILSVRC2017_test_00000834.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus95.94165802001953
+Madagascar cat, ring-tailed lemur, Lemur catta2.2905898094177246
+indri, indris, Indri indri, Indri brevicaudatus0.8690235018730164
+great grey owl, great gray owl, Strix nebulosa0.11712119728326797
+titi, titi monkey0.10367242991924286
+
+Mini_dataset\ILSVRC2017_test_00000835.JPEG
+starfish, sea star92.962890625
+coral reef3.0537655353546143
+sea cucumber, holothurian2.3878567218780518
+brain coral0.4067600667476654
+sea urchin0.23857273161411285
+
+Mini_dataset\ILSVRC2017_test_00000839.JPEG
+goldfish, Carassius auratus58.41590118408203
+anemone fish39.147544860839844
+sea anemone, anemone0.7543972134590149
+puffer, pufferfish, blowfish, globefish0.47767508029937744
+coral reef0.4319576621055603
+
+Mini_dataset\ILSVRC2017_test_00000841.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens99.97764587402344
+polecat, fitch, foulmart, foumart, Mustela putorius0.008428487926721573
+titi, titi monkey0.004535217769443989
+indri, indris, Indri indri, Indri brevicaudatus0.001826174440793693
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca0.0017436514608561993
+
+Mini_dataset\ILSVRC2017_test_00000842.JPEG
+skunk, polecat, wood pussy99.513427734375
+badger0.1760473996400833
+polecat, fitch, foulmart, foumart, Mustela putorius0.08261530101299286
+Border collie0.03185553103685379
+mink0.026029793545603752
+
+Mini_dataset\ILSVRC2017_test_00000844.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens97.79798126220703
+Bernese mountain dog0.9169474244117737
+macaw0.15716643631458282
+Appenzeller0.1290561556816101
+red fox, Vulpes vulpes0.08504082262516022
+
+Mini_dataset\ILSVRC2017_test_00000846.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk85.61109924316406
+damselfly14.299656867980957
+walking stick, walkingstick, stick insect0.06192917376756668
+lacewing, lacewing fly0.006681573577225208
+cicada, cicala0.0026302016340196133
+
+Mini_dataset\ILSVRC2017_test_00000851.JPEG
+goldfish, Carassius auratus99.59486389160156
+axolotl, mud puppy, Ambystoma mexicanum0.07260506600141525
+tench, Tinca tinca0.0676926001906395
+rock beauty, Holocanthus tricolor0.06390653550624847
+gar, garfish, garpike, billfish, Lepisosteus osseus0.04078686982393265
+
+Mini_dataset\ILSVRC2017_test_00000852.JPEG
+sorrel20.490190505981445
+Scottish deerhound, deerhound17.960128784179688
+llama14.873176574707031
+Bedlington terrier8.499174118041992
+standard poodle7.701692581176758
+
+Mini_dataset\ILSVRC2017_test_00000853.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca84.72968292236328
+langur3.7872302532196045
+gibbon, Hylobates lar2.4623210430145264
+Dandie Dinmont, Dandie Dinmont terrier1.2417832612991333
+capuchin, ringtail, Cebus capucinus0.8660367727279663
+
+Mini_dataset\ILSVRC2017_test_00000855.JPEG
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens97.9113540649414
+polecat, fitch, foulmart, foumart, Mustela putorius1.9981440305709839
+badger0.052074093371629715
+weasel0.014035548083484173
+black-footed ferret, ferret, Mustela nigripes0.009290380403399467
+
+Mini_dataset\ILSVRC2017_test_00000856.JPEG
+fox squirrel, eastern fox squirrel, Sciurus niger16.754474639892578
+tabby, tabby cat14.942608833312988
+porcupine, hedgehog9.442753791809082
+meerkat, mierkat9.383997917175293
+tiger cat4.6024088859558105
+
+Mini_dataset\ILSVRC2017_test_00000859.JPEG
+horse cart, horse-cart59.812461853027344
+plow, plough27.750593185424805
+cowboy hat, ten-gallon hat7.715923309326172
+sorrel0.4954549968242645
+barrel, cask0.4907929301261902
+
+Mini_dataset\ILSVRC2017_test_00000862.JPEG
+skunk, polecat, wood pussy90.9906234741211
+badger8.023835182189941
+porcupine, hedgehog0.5021860599517822
+sloth bear, Melursus ursinus, Ursus ursinus0.12573379278182983
+hog, pig, grunter, squealer, Sus scrofa0.12206438928842545
+
+Mini_dataset\ILSVRC2017_test_00000865.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.15264129638672
+Madagascar cat, ring-tailed lemur, Lemur catta0.15187780559062958
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.12143540382385254
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus0.11924277245998383
+indri, indris, Indri indri, Indri brevicaudatus0.10751616209745407
+
+Mini_dataset\ILSVRC2017_test_00000866.JPEG
+albatross, mollymawk77.49217224121094
+goose14.474260330200195
+drake3.943506956100464
+oystercatcher, oyster catcher2.3791589736938477
+black stork, Ciconia nigra0.5729640126228333
+
+Mini_dataset\ILSVRC2017_test_00000869.JPEG
+goldfish, Carassius auratus99.8182144165039
+anemone fish0.10792772471904755
+rock beauty, Holocanthus tricolor0.042173102498054504
+coral reef0.012508324347436428
+tench, Tinca tinca0.0037319976836442947
+
+Mini_dataset\ILSVRC2017_test_00000871.JPEG
+American egret, great white heron, Egretta albus88.55567932128906
+crane5.897294044494629
+little blue heron, Egretta caerulea3.470254421234131
+spoonbill0.9414466023445129
+lakeside, lakeshore0.2597997188568115
+
+Mini_dataset\ILSVRC2017_test_00000872.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.96080017089844
+soccer ball0.01381064672023058
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.007304867263883352
+indri, indris, Indri indri, Indri brevicaudatus0.002483152551576495
+teddy, teddy bear0.0010652055498212576
+
+Mini_dataset\ILSVRC2017_test_00000876.JPEG
+porcupine, hedgehog99.98535919189453
+echidna, spiny anteater, anteater0.008187413215637207
+colobus, colobus monkey0.0012589149409905076
+titi, titi monkey0.0008747351821511984
+beaver0.0007331178640015423
+
+Mini_dataset\ILSVRC2017_test_00000881.JPEG
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle92.43428039550781
+leaf beetle, chrysomelid7.049981594085693
+bee0.1898929476737976
+weevil0.18724849820137024
+fly0.05662155896425247
+
+Mini_dataset\ILSVRC2017_test_00000894.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.99346923828125
+teddy, teddy bear0.0022027341183274984
+soccer ball0.002034609904512763
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.0004282646405044943
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus0.00019513122970238328
+
+Mini_dataset\ILSVRC2017_test_00000895.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus94.70724487304688
+wallaby, brush kangaroo2.3901853561401367
+baboon1.0951783657073975
+Madagascar cat, ring-tailed lemur, Lemur catta0.2537059485912323
+patas, hussar monkey, Erythrocebus patas0.1418924182653427
+
+Mini_dataset\ILSVRC2017_test_00000897.JPEG
+snail98.90306854248047
+bee0.8818913102149963
+isopod0.06191365048289299
+weevil0.033123936504125595
+slug0.03079341910779476
+
+Mini_dataset\ILSVRC2017_test_00000898.JPEG
+timber wolf, grey wolf, gray wolf, Canis lupus63.09392547607422
+red wolf, maned wolf, Canis rufus, Canis niger11.914956092834473
+coyote, prairie wolf, brush wolf, Canis latrans9.488964080810547
+American black bear, black bear, Ursus americanus, Euarctos americanus6.922850131988525
+kelpie1.9493732452392578
+
+Mini_dataset\ILSVRC2017_test_00000901.JPEG
+bee52.42625427246094
+ant, emmet, pismire45.59983444213867
+hip, rose hip, rosehip1.0360519886016846
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle0.18191057443618774
+leaf beetle, chrysomelid0.1592567414045334
+
+Mini_dataset\ILSVRC2017_test_00000912.JPEG
+horse cart, horse-cart65.31111145019531
+shield, buckler8.080245971679688
+military uniform8.07158088684082
+plow, plough4.566310405731201
+cuirass2.590698003768921
+
+Mini_dataset\ILSVRC2017_test_00000918.JPEG
+Arabian camel, dromedary, Camelus dromedarius84.48394012451172
+harp3.1791493892669678
+llama1.3654978275299072
+unicycle, monocycle0.9530083537101746
+hyena, hyaena0.5240209102630615
+
+Mini_dataset\ILSVRC2017_test_00000920.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk74.4059829711914
+damselfly24.963274002075195
+fly0.45102229714393616
+lacewing, lacewing fly0.12737353146076202
+tiger beetle0.010407833382487297
+
+Mini_dataset\ILSVRC2017_test_00000926.JPEG
+drake98.40650939941406
+red-breasted merganser, Mergus serrator0.6194109320640564
+American coot, marsh hen, mud hen, water hen, Fulica americana0.4155495762825012
+goose0.3172127902507782
+dowitcher0.06399315595626831
+
+Mini_dataset\ILSVRC2017_test_00000927.JPEG
+goose61.704383850097656
+crane16.611549377441406
+American egret, great white heron, Egretta albus15.990443229675293
+flamingo0.9860378503799438
+albatross, mollymawk0.9416944980621338
+
+Mini_dataset\ILSVRC2017_test_00000928.JPEG
+standard poodle96.41722106933594
+curly-coated retriever0.8011981844902039
+miniature poodle0.45706090331077576
+Kerry blue terrier0.21319802105426788
+flat-coated retriever0.19245541095733643
+
+Mini_dataset\ILSVRC2017_test_00000929.JPEG
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk60.84201431274414
+ant, emmet, pismire24.725370407104492
+wolf spider, hunting spider5.139959812164307
+damselfly2.5548741817474365
+fly2.106271266937256
+
+Mini_dataset\ILSVRC2017_test_00000930.JPEG
+bee88.20487213134766
+daisy11.044768333435059
+fly0.4298335909843445
+cardoon0.19140221178531647
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle0.0419028215110302
+
+Mini_dataset\ILSVRC2017_test_00000932.JPEG
+bulbul58.986793518066406
+lorikeet13.041360855102539
+bee eater10.279766082763672
+macaw4.999691009521484
+goldfinch, Carduelis carduelis4.4447102546691895
+
+Mini_dataset\ILSVRC2017_test_00000933.JPEG
+horse cart, horse-cart31.191926956176758
+worm fence, snake fence, snake-rail fence, Virginia fence10.635669708251953
+bearskin, busby, shako9.909753799438477
+sorrel8.925819396972656
+groenendael5.939286708831787
+
+Mini_dataset\ILSVRC2017_test_00000934.JPEG
+horse cart, horse-cart92.68095397949219
+plow, plough5.864346027374268
+cowboy hat, ten-gallon hat0.5059575438499451
+sorrel0.4625483751296997
+muzzle0.14061221480369568
+
+Mini_dataset\ILSVRC2017_test_00000936.JPEG
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus71.70101928710938
+ringlet, ringlet butterfly9.198444366455078
+lycaenid, lycaenid butterfly4.841182708740234
+sulphur butterfly, sulfur butterfly2.9258460998535156
+mushroom2.747825860977173
+
+Mini_dataset\ILSVRC2017_test_00000939.JPEG
+spoonbill34.02769088745117
+American egret, great white heron, Egretta albus23.658143997192383
+goose8.998065948486328
+drake7.782848834991455
+pelican5.684406757354736
+
+Mini_dataset\ILSVRC2017_test_00000941.JPEG
+oystercatcher, oyster catcher99.57655334472656
+black stork, Ciconia nigra0.13357201218605042
+English springer, English springer spaniel0.04698670655488968
+ruddy turnstone, Arenaria interpres0.04513004049658775
+German short-haired pointer0.0336342416703701
+
+Mini_dataset\ILSVRC2017_test_00000943.JPEG
+indigo bunting, indigo finch, indigo bird, Passerina cyanea57.54842758178711
+hummingbird7.717051982879639
+peacock5.060710430145264
+European gallinule, Porphyrio porphyrio3.0984339714050293
+crayfish, crawfish, crawdad, crawdaddy2.7777318954467773
+
+Mini_dataset\ILSVRC2017_test_00000944.JPEG
+tiger, Panthera tigris74.19364166259766
+tiger cat25.750123977661133
+lynx, catamount0.012986700981855392
+leopard, Panthera pardus0.010988777503371239
+snow leopard, ounce, Panthera uncia0.007639600429683924
+
+Mini_dataset\ILSVRC2017_test_00000949.JPEG
+grey fox, gray fox, Urocyon cinereoargenteus94.3497314453125
+kit fox, Vulpes macrotis4.5237531661987305
+red fox, Vulpes vulpes0.9419993758201599
+Egyptian cat0.04590064659714699
+tiger cat0.025050172582268715
+
+Mini_dataset\ILSVRC2017_test_00000950.JPEG
+howler monkey, howler26.670562744140625
+spider monkey, Ateles geoffroyi15.54735279083252
+langur7.948153495788574
+colobus, colobus monkey6.446064472198486
+baboon5.679324626922607
+
+Mini_dataset\ILSVRC2017_test_00000960.JPEG
+scorpion97.80070495605469
+Dungeness crab, Cancer magister0.8295734524726868
+fiddler crab0.8057888746261597
+cockroach, roach0.3705495595932007
+mantis, mantid0.07082489877939224
+
+Mini_dataset\ILSVRC2017_test_00000961.JPEG
+goose23.295639038085938
+vulture14.628453254699707
+quail11.687838554382324
+kite6.465628623962402
+marmot5.7855963706970215
+
+Mini_dataset\ILSVRC2017_test_00000963.JPEG
+porcupine, hedgehog68.08753204345703
+colobus, colobus monkey8.80318832397461
+sloth bear, Melursus ursinus, Ursus ursinus5.5089945793151855
+langur4.82357931137085
+three-toed sloth, ai, Bradypus tridactylus4.032423496246338
+
+Mini_dataset\ILSVRC2017_test_00000964.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.9486083984375
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.03786246106028557
+polecat, fitch, foulmart, foumart, Mustela putorius0.004408468957990408
+sloth bear, Melursus ursinus, Ursus ursinus0.003736665938049555
+capuchin, ringtail, Cebus capucinus0.0017036861972883344
+
+Mini_dataset\ILSVRC2017_test_00000967.JPEG
+jay99.99881744384766
+magpie0.00029208953492343426
+chickadee0.00018596998415887356
+macaw0.00017609249334782362
+indigo bunting, indigo finch, indigo bird, Passerina cyanea9.126702934736386e-05
+
+Mini_dataset\ILSVRC2017_test_00000968.JPEG
+tree frog, tree-frog47.24563980102539
+anemone fish13.74360179901123
+goldfish, Carassius auratus3.668548107147217
+monitor3.001328706741333
+coral reef2.2706656455993652
+
+Mini_dataset\ILSVRC2017_test_00000970.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus96.12964630126953
+indri, indris, Indri indri, Indri brevicaudatus2.5745038986206055
+three-toed sloth, ai, Bradypus tridactylus0.5531691908836365
+proboscis monkey, Nasalis larvatus0.17404000461101532
+macaque0.13714046776294708
+
+Mini_dataset\ILSVRC2017_test_00000971.JPEG
+hip, rose hip, rosehip4.818183422088623
+acorn4.802473545074463
+birdhouse3.8939361572265625
+pomegranate3.688802480697632
+squirrel monkey, Saimiri sciureus3.6729254722595215
+
+Mini_dataset\ILSVRC2017_test_00000972.JPEG
+marmoset48.05935287475586
+capuchin, ringtail, Cebus capucinus17.953039169311523
+macaque11.504143714904785
+titi, titi monkey7.862431526184082
+Persian cat6.220376968383789
+
+Mini_dataset\ILSVRC2017_test_00000974.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.45410919189453
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.1013781875371933
+capuchin, ringtail, Cebus capucinus0.0769965797662735
+gibbon, Hylobates lar0.07289257645606995
+colobus, colobus monkey0.06468815356492996
+
+Mini_dataset\ILSVRC2017_test_00000978.JPEG
+grey fox, gray fox, Urocyon cinereoargenteus83.4028549194336
+kit fox, Vulpes macrotis15.467236518859863
+red fox, Vulpes vulpes0.9865974187850952
+Egyptian cat0.02096257358789444
+coyote, prairie wolf, brush wolf, Canis latrans0.016361532732844353
+
+Mini_dataset\ILSVRC2017_test_00000984.JPEG
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca99.7697525024414
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens0.08136196434497833
+brown bear, bruin, Ursus arctos0.05156334862112999
+American black bear, black bear, Ursus americanus, Euarctos americanus0.042025383561849594
+sloth bear, Melursus ursinus, Ursus ursinus0.032979242503643036
+
+Mini_dataset\ILSVRC2017_test_00000988.JPEG
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus98.84890747070312
+indri, indris, Indri indri, Indri brevicaudatus0.6655701398849487
+macaque0.1449127346277237
+capuchin, ringtail, Cebus capucinus0.12409484386444092
+titi, titi monkey0.07279806584119797
+
+Mini_dataset\ILSVRC2017_test_00000991.JPEG
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle99.42752838134766
+leaf beetle, chrysomelid0.49554216861724854
+ant, emmet, pismire0.027977727353572845
+hip, rose hip, rosehip0.013773700222373009
+fly0.005976444575935602
+
+Mini_dataset\ILSVRC2017_test_00000995.JPEG
+goldfish, Carassius auratus87.23065948486328
+tench, Tinca tinca8.294014930725098
+rock beauty, Holocanthus tricolor1.874342918395996
+axolotl, mud puppy, Ambystoma mexicanum0.6050767302513123
+anemone fish0.3772236704826355
+
+Mini_dataset\ILSVRC2017_test_00000997.JPEG
+sea lion99.0423355102539
+seashore, coast, seacoast, sea-coast0.6565654873847961
+promontory, headland, head, foreland0.10971295088529587
+Arabian camel, dromedary, Camelus dromedarius0.025131070986390114
+otter0.02231455221772194

@@ -1,0 +1,52 @@
+test_1	- tiger_cat
+test_2 	- lion
+test_3	- Orangutan
+test_4 	- squirel
+test_5 	- golden_retreiver -dog
+test_6 	- Pitbull - dog
+test_7 	- Egyption cat
+test_8 	- Car
+test_9	- Bullet Train
+test_10 - train
+test_11	- bow
+test_12	- Beagle
+test_13 - Dalia
+test_14 - daisy
+test_15	- bike
+test_16	- pickup Truck
+test_17 - Bus 
+test_18	- tea pot
+test_19 - anemone fish
+test_20	- Tennisball
+test_21	- crane 
+test_22	- fly
+test_23	- Hare
+test_24	- eel
+test_25	- apron
+test_26 - canoe
+test_27 - carwheel
+test_28 - desktop computer
+test_29 - fountain
+test_30 - hammer
+test_31 - harp
+test_32 - honeycomb
+test_33 - mitten
+test_34 - nail
+test_35 - pillow
+test_36 - scoreboard
+test_37 - shovel
+test_38 - stethoscope
+test_39 - whistle
+test_40 - pretzel
+test_41 - mushOAroom
+test_42 - banana
+test_43 - custard apple
+test_44 - hay
+test_45 - geyser
+test_46 - cup
+test_47 - cauliflower
+test_48 - broccolli
+test_49 - cardoon
+test_50 - corn
+
+

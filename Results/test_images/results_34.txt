@@ -1,0 +1,350 @@
+
+test_images\test_1.jpg
+Egyptian cat49.007965087890625
+tabby, tabby cat19.008441925048828
+lynx, catamount18.21890640258789
+tiger cat10.880146980285645
+tiger, Panthera tigris1.0014961957931519
+
+test_images\test_10.jpg
+thresher, thrasher, threshing machine53.55030822753906
+tractor24.941043853759766
+harvester, reaper12.617647171020508
+garbage truck, dustcart3.904510021209717
+plow, plough1.8210254907608032
+
+test_images\test_11.jpg
+bow43.348628997802734
+safety pin22.101390838623047
+hook, claw5.072084903717041
+stethoscope4.5614776611328125
+sundial1.1187585592269897
+
+test_images\test_12.jpg
+Walker hound, Walker foxhound43.24937438964844
+beagle29.634511947631836
+English foxhound25.281423568725586
+bluetick0.38229691982269287
+basset, basset hound0.28414204716682434
+
+test_images\test_13.jpg
+daisy50.007164001464844
+picket fence, paling11.85032844543457
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus8.478074073791504
+bee7.050960540771484
+cabbage butterfly5.796820640563965
+
+test_images\test_14.jpg
+daisy99.91915893554688
+bee0.017576489597558975
+cabbage butterfly0.01689012348651886
+lycaenid, lycaenid butterfly0.005158079322427511
+fly0.0036136102862656116
+
+test_images\test_15.jpg
+mountain bike, all-terrain bike, off-roader99.38886260986328
+bicycle-built-for-two, tandem bicycle, tandem0.25369390845298767
+tricycle, trike, velocipede0.10170140117406845
+crash helmet0.06396518647670746
+moped0.04678574576973915
+
+test_images\test_16.jpg
+pickup, pickup truck70.58390808105469
+jeep, landrover9.192292213439941
+minivan5.97240686416626
+tow truck, tow car, wrecker2.9820072650909424
+police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria2.5709965229034424
+
+test_images\test_17.jpg
+passenger car, coach, carriage56.61524963378906
+recreational vehicle, RV, R.V.11.339853286743164
+garbage truck, dustcart6.7615790367126465
+trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi6.246744632720947
+minibus5.278598785400391
+
+test_images\test_18.jpg
+teapot97.41803741455078
+coffeepot2.2472174167633057
+water jug0.1793970912694931
+pitcher, ewer0.07639486342668533
+strainer0.017464233562350273
+
+test_images\test_19.jpg
+anemone fish99.58381652832031
+rock beauty, Holocanthus tricolor0.2818053364753723
+sea anemone, anemone0.03428288549184799
+flatworm, platyhelminth0.01326803583651781
+coral reef0.009319769218564034
+
+test_images\test_2.jpg
+lion, king of beasts, Panthera leo99.8978500366211
+bison0.03910449892282486
+cheetah, chetah, Acinonyx jubatus0.01277537364512682
+hyena, hyaena0.0126954922452569
+ox0.007221198175102472
+
+test_images\test_20.jpg
+tennis ball99.99268341064453
+racket, racquet0.004393960349261761
+baseball0.001315244589932263
+croquet ball0.00018894752429332584
+golf ball0.0001797990989871323
+
+test_images\test_21.jpg
+crane99.81903076171875
+drilling platform, offshore rig0.037423908710479736
+container ship, containership, container vessel0.029846901074051857
+fire engine, fire truck0.01950812339782715
+scoreboard0.01915307343006134
+
+test_images\test_22.jpg
+fly98.64617156982422
+lacewing, lacewing fly0.3233605623245239
+ground beetle, carabid beetle0.15635308623313904
+tick0.11775998771190643
+ear, spike, capitulum0.10423161089420319
+
+test_images\test_23.jpg
+hare90.84339141845703
+wood rabbit, cottontail, cottontail rabbit8.867103576660156
+Angora, Angora rabbit0.10894657671451569
+fox squirrel, eastern fox squirrel, Sciurus niger0.013102373108267784
+hamster0.011822261847555637
+
+test_images\test_24.jpg
+common newt, Triturus vulgaris86.96662139892578
+axolotl, mud puppy, Ambystoma mexicanum6.932785987854004
+eel3.255516767501831
+spotted salamander, Ambystoma maculatum1.4328418970108032
+European fire salamander, Salamandra salamandra0.3830549418926239
+
+test_images\test_25.jpg
+apron62.317283630371094
+overskirt4.67337703704834
+bassinet2.8322606086730957
+hoopskirt, crinoline2.3558454513549805
+velvet2.303645133972168
+
+test_images\test_26.jpg
+canoe97.67650604248047
+paddle, boat paddle2.134523630142212
+speedboat0.06661361455917358
+scabbard0.0287947915494442
+letter opener, paper knife, paperknife0.013823258690536022
+
+test_images\test_27.jpg
+car wheel99.74137878417969
+disk brake, disc brake0.22220338881015778
+racer, race car, racing car0.00859643891453743
+sports car, sport car0.004757090006023645
+Model T0.003056674962863326
+
+test_images\test_28.jpg
+desktop computer73.91165161132812
+mouse, computer mouse6.504085540771484
+monitor6.11461067199707
+desk4.662503242492676
+screen, CRT screen3.2550697326660156
+
+test_images\test_29.jpg
+fountain92.86250305175781
+broom2.732959270477295
+swab, swob, mop2.4312729835510254
+spotlight, spot0.30561140179634094
+hoopskirt, crinoline0.11287275701761246
+
+test_images\test_3.jpg
+orangutan, orang, orangutang, Pongo pygmaeus99.90988159179688
+chimpanzee, chimp, Pan troglodytes0.020070236176252365
+howler monkey, howler0.019192712381482124
+gorilla, Gorilla gorilla0.0162702314555645
+titi, titi monkey0.00863192044198513
+
+test_images\test_30.jpg
+hammer91.6451416015625
+pencil sharpener1.4782180786132812
+plunger, plumber's helper1.3757145404815674
+spatula1.1714640855789185
+hatchet0.920168936252594
+
+test_images\test_31.jpg
+harp99.99160766601562
+grand piano, grand0.0019317192491143942
+suspension bridge0.001068794634193182
+quill, quill pen0.0005698645254597068
+accordion, piano accordion, squeeze box0.000394779141061008
+
+test_images\test_32.jpg
+honeycomb99.86779022216797
+apiary, bee house0.13151511549949646
+bee0.000646161672193557
+jackfruit, jak, jack6.551515980390832e-06
+envelope6.324273726932006e-06
+
+test_images\test_33.jpg
+knee pad51.06787872314453
+bath towel19.01822853088379
+diaper, nappy, napkin16.834409713745117
+wool, woolen, woollen9.535263061523438
+sweatshirt1.1226530075073242
+
+test_images\test_34.jpg
+Band Aid41.968421936035156
+lotion10.351767539978027
+rubber eraser, rubber, pencil eraser9.472366333007812
+safety pin6.477550506591797
+saltshaker, salt shaker4.724307537078857
+
+test_images\test_35.jpg
+hamper42.353031158447266
+pillow29.025707244873047
+dishrag, dishcloth8.571402549743652
+wallet, billfold, notecase, pocketbook4.168994426727295
+purse2.920135736465454
+
+test_images\test_36.jpg
+scoreboard99.98698425292969
+crossword puzzle, crossword0.0037379865534603596
+street sign0.001980889355763793
+ballplayer, baseball player0.0007818092708475888
+digital clock0.0005465601570904255
+
+test_images\test_37.jpg
+shovel99.70413970947266
+hatchet0.22420737147331238
+broom0.022588279098272324
+hammer0.0064664119854569435
+plow, plough0.00585814006626606
+
+test_images\test_38.jpg
+stethoscope98.99418640136719
+loupe, jeweler's loupe0.4381372630596161
+hook, claw0.05543648824095726
+corkscrew, bottle screw0.05437856167554855
+hard disc, hard disk, fixed disk0.04943317174911499
+
+test_images\test_39.jpg
+whistle89.76799011230469
+holster2.0677130222320557
+sunglass0.8031409382820129
+buckle0.6683478355407715
+clog, geta, patten, sabot0.5895336866378784
+
+test_images\test_4.jpg
+fox squirrel, eastern fox squirrel, Sciurus niger96.4275131225586
+marmot1.8982913494110107
+hare0.5005179643630981
+hamster0.19937404990196228
+marmoset0.17966893315315247
+
+test_images\test_40.jpg
+pretzel87.40221405029297
+bagel, beigel12.49207592010498
+bakery, bakeshop, bakehouse0.02522459253668785
+potpie0.01555535290390253
+French loaf0.00820100400596857
+
+test_images\test_41.jpg
+earthstar37.65704345703125
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa29.536697387695312
+mushroom17.349227905273438
+gyromitra3.8905999660491943
+bolete1.990537405014038
+
+test_images\test_42.jpg
+banana99.99620819091797
+hook, claw0.0008370638242922723
+eel0.0007246208260767162
+slug0.0005981107242405415
+spaghetti squash0.000275652389973402
+
+test_images\test_43.jpg
+custard apple99.95853424072266
+artichoke, globe artichoke0.04081040620803833
+head cabbage0.0004952102899551392
+cauliflower7.580208330182359e-05
+jackfruit, jak, jack2.052900890703313e-05
+
+test_images\test_44.jpg
+hay74.96436309814453
+wool, woolen, woollen1.4771180152893066
+guinea pig, Cavia cobaya0.9098486304283142
+wombat0.5631567239761353
+hog, pig, grunter, squealer, Sus scrofa0.5428497195243835
+
+test_images\test_45.jpg
+geyser99.98905944824219
+volcano0.007390821818262339
+beacon, lighthouse, beacon light, pharos0.0014087723102420568
+fountain0.000792202539741993
+projectile, missile0.00031752639915794134
+
+test_images\test_46.jpg
+coffee mug97.5102310180664
+cup2.4482178688049316
+bucket, pail0.01509023830294609
+espresso0.013109526596963406
+measuring cup0.004426088184118271
+
+test_images\test_47.jpg
+cauliflower99.99982452392578
+broccoli0.0001489519636379555
+head cabbage1.7965414372156374e-05
+mashed potato1.2917515050503425e-05
+dough2.5736464976944262e-06
+
+test_images\test_48.jpg
+broccoli99.98709106445312
+cauliflower0.009569237008690834
+head cabbage0.0028266331646591425
+zucchini, courgette0.00041697488632053137
+cucumber, cuke4.6185668907128274e-05
+
+test_images\test_49.jpg
+cardoon57.12747573852539
+artichoke, globe artichoke42.871456146240234
+bee0.00026831121067516506
+sea urchin0.00014979354455135763
+sea anemone, anemone8.436742791673169e-05
+
+test_images\test_5.jpg
+golden retriever98.50372314453125
+Sussex spaniel0.695614218711853
+clumber, clumber spaniel0.4008188247680664
+tennis ball0.05059996619820595
+Brittany spaniel0.04254301264882088
+
+test_images\test_50.jpg
+ear, spike, capitulum75.86820983886719
+corn24.130868911743164
+daisy0.0003204575041308999
+pineapple, ananas0.00012560395407490432
+honeycomb7.395539432764053e-05
+
+test_images\test_6.jpg
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier94.82804870605469
+Staffordshire bullterrier, Staffordshire bull terrier3.6378324031829834
+Great Dane1.0720982551574707
+bull mastiff0.18363577127456665
+boxer0.1371539831161499
+
+test_images\test_7.jpg
+Egyptian cat95.22055053710938
+Mexican hairless0.529584527015686
+tabby, tabby cat0.3030385375022888
+toy terrier0.23224204778671265
+Chihuahua0.21968145668506622
+
+test_images\test_8.jpg
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon45.8880615234375
+car wheel20.529300689697266
+sports car, sport car20.180553436279297
+minivan6.368426322937012
+limousine, limo4.956756591796875
+
+test_images\test_9.jpg
+electric locomotive80.85807800292969
+bullet train, bullet14.380383491516113
+passenger car, coach, carriage3.0932226181030273
+freight car1.4055390357971191
+streetcar, tram, tramcar, trolley, trolley car0.2101975530385971

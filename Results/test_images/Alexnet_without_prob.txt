@@ -1,0 +1,101 @@
+
+test_images\test_1.jpg
+__tabby, tabby cat__tiger cat__tiger, Panthera tigris__Egyptian cat__leopard, Panthera pardus
+test_images\test_10.jpg
+__whistle__plow, plough__thresher, thrasher, threshing machine__jigsaw puzzle__harvester, reaper
+test_images\test_11.jpg
+__bow__safety pin__stethoscope__hook, claw__strainer
+test_images\test_12.jpg
+__Walker hound, Walker foxhound__English foxhound__beagle__Brittany spaniel__basset, basset hound
+test_images\test_13.jpg
+__daisy__bee__cabbage butterfly__sulphur butterfly, sulfur butterfly__monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+test_images\test_14.jpg
+__daisy__cabbage butterfly__fly__ant, emmet, pismire__bee
+test_images\test_15.jpg
+__mountain bike, all-terrain bike, off-roader__tricycle, trike, velocipede__bicycle-built-for-two, tandem bicycle, tandem__disk brake, disc brake__moped
+test_images\test_16.jpg
+__pickup, pickup truck__jeep, landrover__tow truck, tow car, wrecker__beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon__garbage truck, dustcart
+test_images\test_17.jpg
+__minibus__recreational vehicle, RV, R.V.__garbage truck, dustcart__trolleybus, trolley coach, trackless trolley__minivan
+test_images\test_18.jpg
+__teapot__vase__pitcher, ewer__jack-o'-lantern__coffeepot
+test_images\test_19.jpg
+__anemone fish__sea slug, nudibranch__mask__coral reef__violin, fiddle
+test_images\test_2.jpg
+__lion, king of beasts, Panthera leo__bison__Norfolk terrier__Leonberg__golden retriever
+test_images\test_20.jpg
+__tennis ball__lemon__Granny Smith__racket, racquet__acorn
+test_images\test_21.jpg
+__crane__container ship, containership, container vessel__pier__fireboat__suspension bridge
+test_images\test_22.jpg
+__fly__ground beetle, carabid beetle__barn spider, Araneus cavaticus__weevil__cricket
+test_images\test_23.jpg
+__hare__wood rabbit, cottontail, cottontail rabbit__wallaby, brush kangaroo__fox squirrel, eastern fox squirrel, Sciurus niger__lynx, catamount
+test_images\test_24.jpg
+__common newt, Triturus vulgaris__water snake__eel__axolotl, mud puppy, Ambystoma mexicanum__slug
+test_images\test_25.jpg
+__bassinet__perfume, essence__coffeepot__trench coat__gown
+test_images\test_26.jpg
+__canoe__sandbar, sand bar__speedboat__seashore, coast, seacoast, sea-coast__lakeside, lakeshore
+test_images\test_27.jpg
+__car wheel__disk brake, disc brake__buckle__magnetic compass__wall clock
+test_images\test_28.jpg
+__desktop computer__monitor__home theater, home theatre__screen, CRT screen__television, television system
+test_images\test_29.jpg
+__hoopskirt, crinoline__komondor__swab, swob, mop__mountain tent__dome
+test_images\test_3.jpg
+__orangutan, orang, orangutang, Pongo pygmaeus__howler monkey, howler__macaque__baboon__chimpanzee, chimp, Pan troglodytes
+test_images\test_30.jpg
+__washbasin, handbasin, washbowl, lavabo, wash-hand basin__spatula__desk__mortar__pencil sharpener
+test_images\test_31.jpg
+__harp__lampshade, lamp shade__matchstick__window shade__theater curtain, theatre curtain
+test_images\test_32.jpg
+__honeycomb__apiary, bee house__jackfruit, jak, jack__strainer__window screen
+test_images\test_33.jpg
+__wool, woolen, woollen__velvet__knee pad__bath towel__cardigan
+test_images\test_34.jpg
+__lotion__iPod__ice lolly, lolly, lollipop, popsicle__Band Aid__perfume, essence
+test_images\test_35.jpg
+__corn__hamper__ear, spike, capitulum__pillow__honeycomb
+test_images\test_36.jpg
+__scoreboard__digital clock__street sign__crossword puzzle, crossword__stopwatch, stop watch
+test_images\test_37.jpg
+__ground beetle, carabid beetle__pinwheel__bee eater__shovel__broom
+test_images\test_38.jpg
+__stethoscope__hard disc, hard disk, fixed disk__mouse, computer mouse__lens cap, lens cover__coil, spiral, volute, whorl, helix
+test_images\test_39.jpg
+__whistle__lighter, light, igniter, ignitor__loupe, jeweler's loupe__torch__microphone, mike
+test_images\test_4.jpg
+__fox squirrel, eastern fox squirrel, Sciurus niger__marmot__hare__langur__marmoset
+test_images\test_40.jpg
+__pretzel__bagel, beigel__dough__mashed potato__cheeseburger
+test_images\test_41.jpg
+__mortar__butternut squash__French loaf__bagel, beigel__conch
+test_images\test_42.jpg
+__banana__spaghetti squash__acorn squash__fountain pen__apiary, bee house
+test_images\test_43.jpg
+__custard apple__artichoke, globe artichoke__head cabbage__pineapple, ananas__acorn
+test_images\test_44.jpg
+__hay__ear, spike, capitulum__bustard__quail__bittern
+test_images\test_45.jpg
+__geyser__fountain__beacon, lighthouse, beacon light, pharos__breakwater, groin, groyne, mole, bulwark, seawall, jetty__volcano
+test_images\test_46.jpg
+__coffee mug__cup__beer glass__bucket, pail__pencil sharpener
+test_images\test_47.jpg
+__cauliflower__mashed potato__dough__ice cream, icecream__head cabbage
+test_images\test_48.jpg
+__broccoli__cauliflower__African chameleon, Chamaeleo chamaeleon__head cabbage__cucumber, cuke
+test_images\test_49.jpg
+__cardoon__artichoke, globe artichoke__monarch, monarch butterfly, milkweed butterfly, Danaus plexippus__cabbage butterfly__sea anemone, anemone
+test_images\test_5.jpg
+__golden retriever__Sussex spaniel__Saluki, gazelle hound__Tibetan mastiff__Afghan hound, Afghan
+test_images\test_50.jpg
+__ear, spike, capitulum__corn__zucchini, courgette__stinkhorn, carrion fungus__African chameleon, Chamaeleo chamaeleon
+test_images\test_6.jpg
+__American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier__Great Dane__Staffordshire bullterrier, Staffordshire bull terrier__German short-haired pointer__tennis ball
+test_images\test_7.jpg
+__Mexican hairless__Chihuahua__sunglasses, dark glasses, shades__muzzle__potter's wheel
+test_images\test_8.jpg
+__sports car, sport car__convertible__beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon__limousine, limo__minivan
+test_images\test_9.jpg
+__bullet train, bullet__electric locomotive__passenger car, coach, carriage__freight car__steel arch bridge
